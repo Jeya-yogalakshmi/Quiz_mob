@@ -1,0 +1,304 @@
+[
+  {
+    "0": "Match the rhyming words:\nfilth",
+    "1": "Match the rhyming words:\ncook",
+    "2": "Match the rhyming words:\ncharm",
+    "3": "Match the rhyming words:\narmour",
+    "4": "We don’t use _______ in the soil.",
+    "5": "Be humble like a _______.",
+    "6": "Choose the correct verb form\nI _______ (read) the poem.",
+    "7": "Choose the correct verb form\nThey _______ (write) the poem.",
+    "8": "Choose the correct verb form\nIt _______ (go) to Delhi.",
+    "9": "Choose the correct verb form\nshe _______ (draw) a picture.",
+    "10": "Choose the correct verb form\nWe _______ (eat) fruits.",
+    "11": "Choose the correct verb form\nHe _______ (watch) movie.",
+    "12": "Choose the correct verb form\nYou _______ (make) lunch.",
+    "13": "I _______ cricket with my friends.",
+    "14": "My mother _______ TV.",
+    "15": "We _______ mango.",
+    "16": "My friends _______ their bicycles.",
+    "17": "Mohan _______ a letter",
+    "18": "The bell _______ loudly.",
+    "19": "While I was writing,he _______.",
+    "20": "While the boy was playing,the girl _______.",
+    "21": "While my mother was cooking, my father _______.",
+    "22": "Choose the correct Future continuous Tense\nI _______ (wait) for you.",
+    "23": "Choose the correct Future continuous Tense\nThey _______ (come)",
+    "24": "Choose the correct Future continuous Tense\nIt _______ play.",
+    "25": "Choose the correct Future continuous Tense\nShe _______ (swim).",
+    "26": "Choose the correct Future continuous Tense\nwe _______ (drink).",
+    "27": "Past Continuous to Future Continous\nShe was waiting for bus.",
+    "28": "Past Continuous to Future Continous\nThey were going to Coimbatore.",
+    "29": "Past Continuous to Future Continous\nSuresh was playing chess.",
+    "30": "Past Continuous to Future Continous\nRafiq was eating breakfast.",
+    "31": "Past Continuous to Future Continous\nPrasanth was reading newspaper.",
+    "32": "Future Continuous to Past Continuous\nI will be speaking to her.",
+    "33": "Future Continuous to Past Continuous\nLucy will be getting ready.",
+    "34": "Future Continuous to Past Continuous\nThe train will be arriving on the 2nd platform.",
+    "35": "Future Continuous to Past Continuous\nWe will be sleeping on terrace.",
+    "36": "Future Continuous to Past Continuous\nIt will be raining heavily."
+  },
+  {
+    "0": {
+      "a": "look",
+      "b": "harm",
+      "c": "farmer",
+      "d": "wealth"
+    },
+    "1": {
+      "a": "harm",
+      "b": "wealth",
+      "c": "farmer",
+      "d": "look"
+    },
+    "2": {
+      "a": "farmer",
+      "b": "wealth",
+      "c": "harm",
+      "d": "look"
+    },
+    "3": {
+      "a": "farmer",
+      "b": "look",
+      "c": "harm",
+      "d": "wealth"
+    },
+    "4": {
+      "a": "Chemicals",
+      "b": "fertilizers",
+      "c": "cow dung",
+      "d": "raw waste"
+    },
+    "5": {
+      "a": "insect",
+      "b": "Worm",
+      "c": "bird",
+      "d": "animal"
+    },
+    "6": {
+      "a": "was reading",
+      "b": "were reading",
+      "c": "",
+      "d": ""
+    },
+    "7": {
+      "a": "were writing",
+      "b": "was writing",
+      "c": "",
+      "d": ""
+    },
+    "8": {
+      "a": "were going",
+      "b": "was going",
+      "c": "",
+      "d": ""
+    },
+    "9": {
+      "a": "were drawing",
+      "b": "was drawing",
+      "c": "",
+      "d": ""
+    },
+    "10": {
+      "a": "were eating",
+      "b": "was eating",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "were watching",
+      "b": "was watching",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "was making",
+      "b": "were making",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "was playing",
+      "b": "were playing",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "was watching",
+      "b": "were watching",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "were eating",
+      "b": "was eating",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "was riding",
+      "b": "were riding",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "were writing",
+      "b": "was writing",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "were ringing",
+      "b": "was ringing",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "were sleeping",
+      "b": "was sleeping",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "was reading",
+      "b": "were reading",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "was chopping",
+      "b": "were chopping",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "will be wait",
+      "b": "will waiting",
+      "c": "will be waiting",
+      "d": "will wait"
+    },
+    "23": {
+      "a": "will being come",
+      "b": "will coming",
+      "c": "will be come",
+      "d": "will be coming"
+    },
+    "24": {
+      "a": "will be play",
+      "b": "will be playing",
+      "c": "will playing",
+      "d": "will play"
+    },
+    "25": {
+      "a": "will swim",
+      "b": "will swimming",
+      "c": "will be swim",
+      "d": "will be swimming"
+    },
+    "26": {
+      "a": "will be drink",
+      "b": "will be drinking",
+      "c": "will drinking",
+      "d": "will drink"
+    },
+    "27": {
+      "a": "She will be waiting for bus.",
+      "b": "She will wait for bus.",
+      "c": "She is waiting for bus.",
+      "d": "She was waiting for bus."
+    },
+    "28": {
+      "a": "They are going to Coimbatore",
+      "b": "They were going to Coimbatore",
+      "c": "They will be going to Coimbatore",
+      "d": "They goes to Coimbatore"
+    },
+    "29": {
+      "a": "Suresh will play chess",
+      "b": "Suresh plays chess",
+      "c": "Suresh is playing chess",
+      "d": "Suresh will be playing chess"
+    },
+    "30": {
+      "a": "Rafiq will be eating breakfast",
+      "b": "Rafiq is eating breakfast",
+      "c": "Rafiq will eat breakfast",
+      "d": "Rafiq eats breakfast"
+    },
+    "31": {
+      "a": "Prasanth is reading newspaper.",
+      "b": "Prasanth will read newspaper.",
+      "c": "Prasanth will be reading newspaper.",
+      "d": "Prasanth reads newspaper."
+    },
+    "32": {
+      "a": "I am speaking to her.",
+      "b": "I was speaking to her.",
+      "c": "I were speaking to her.",
+      "d": "I speaking to her."
+    },
+    "33": {
+      "a": "Lucy is getting ready.",
+      "b": "Lucy were getting ready.",
+      "c": "Lucy will be getting ready.",
+      "d": "Lucy was getting ready."
+    },
+    "34": {
+      "a": "The train were arriving on the 2nd platform",
+      "b": "The train is arriving on the 2nd platform",
+      "c": "The train was arriving on the 2nd platform",
+      "d": "The train will arrive on the 2nd platform"
+    },
+    "35": {
+      "a": "We are sleeping on terrace.",
+      "b": "We were sleeping on terrace.",
+      "c": "We was sleeping on terrace.",
+      "d": "We sleep on terrace."
+    },
+    "36": {
+      "a": "It was raining heavily.",
+      "b": "It is raining heavily.",
+      "c": "It rain heavily.",
+      "d": "It will rain heavily.."
+    }
+  },
+  {
+    "0": "d",
+    "1": "d",
+    "2": "c",
+    "3": "a",
+    "4": "a",
+    "5": "b",
+    "6": "a",
+    "7": "a",
+    "8": "b",
+    "9": "b",
+    "10": "a",
+    "11": "b",
+    "12": "b",
+    "13": "a",
+    "14": "a",
+    "15": "a",
+    "16": "b",
+    "17": "b",
+    "18": "b",
+    "19": "b",
+    "20": "a",
+    "21": "a",
+    "22": "c",
+    "23": "d",
+    "24": "b",
+    "25": "d",
+    "26": "b",
+    "27": "a",
+    "28": "c",
+    "29": "d",
+    "30": "a",
+    "31": "c",
+    "32": "b",
+    "33": "d",
+    "34": "c",
+    "35": "b",
+    "36": "a"
+  }
+]

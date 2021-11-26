@@ -1,0 +1,168 @@
+[
+  {
+    "0": "The biotic factor which spoils the food item is",
+    "1": "Grains are preserved by",
+    "2": "Anaemia is a disease which occurs due to lack of",
+    "3": "Storage of excess fat in the body is known as",
+    "4": "Carbohydrates are rich in",
+    "5": "Night blindness is caused by the lack of_________.",
+    "6": "Marasmus is a __________ deficiency disease.",
+    "7": "Bad smell from the food item is due to _________.",
+    "8": "Humidity in air is one of the _________ factor, which spoils food.",
+    "9": "Using low-quality gas tubes in the gas stove may lead to _________ leakage.",
+    "10": "Match the following:\nProtein deficiency",
+    "11": "Match the following:\nRickets",
+    "12": "Match the following:\nObesity",
+    "13": "Match the following:\nKerosene",
+    "14": "Match the following:\nFreezing",
+    "15": "Vinegar is added as a preservative for pickles.",
+    "16": "Irradiation affects the taste of food materials.",
+    "17": "In case of gas leakage, we can continue to use electrical appliances.",
+    "18": "Deficiency due to iodine is called beriberi.",
+    "19": "Growing children need more proteins in their food."
+  },
+  {
+    "0": {
+      "a": "humidity",
+      "b": "bacteria",
+      "c": "temperature",
+      "d": "drying"
+    },
+    "1": {
+      "a": "adding sugar",
+      "b": "freezing",
+      "c": "adding salt",
+      "d": "drying"
+    },
+    "2": {
+      "a": "Iron",
+      "b": "Vitamin-B",
+      "c": "Vitamin-A",
+      "d": "Vìtamin-D"
+    },
+    "3": {
+      "a": "headache",
+      "b": "fever",
+      "c": "obesity",
+      "d": "stomach pain"
+    },
+    "4": {
+      "a": "fruits",
+      "b": "ghee",
+      "c": "oil",
+      "d": "rice"
+    },
+    "5": {
+      "a": "Vitamin B",
+      "b": "Vitamin C",
+      "c": "Vitamin D",
+      "d": "Vitamin A"
+    },
+    "6": {
+      "a": "Nutrient",
+      "b": "protein",
+      "c": "Vitamin",
+      "d": "Mineral"
+    },
+    "7": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "precipitation",
+      "d": "sublimation"
+    },
+    "8": {
+      "a": "Decompose",
+      "b": "Compose",
+      "c": "grow",
+      "d": "develop"
+    },
+    "9": {
+      "a": "Liquid",
+      "b": "Gas",
+      "c": "Solid",
+      "d": "Semi-Solid"
+    },
+    "10": {
+      "a": "Fruits",
+      "b": "In-flammable material",
+      "c": "Vitamin-D",
+      "d": "Kwashiorkor"
+    },
+    "11": {
+      "a": "Fruits",
+      "b": "In-flammable material",
+      "c": "Vitamin-D",
+      "d": "Kwashiorkor"
+    },
+    "12": {
+      "a": "Fruits",
+      "b": "Physical inactivity",
+      "c": "Vitamin-D",
+      "d": "Kwashiorkor"
+    },
+    "13": {
+      "a": "Fruits",
+      "b": "In-flammable material",
+      "c": "Vitamin-D",
+      "d": "Kwashiorkor"
+    },
+    "14": {
+      "a": "Fruits",
+      "b": "In-flammable material",
+      "c": "Vitamin-D",
+      "d": "Kwashiorkor"
+    },
+    "15": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "b",
+    "1": "d",
+    "2": "a",
+    "3": "c",
+    "4": "d",
+    "5": "d",
+    "6": "b",
+    "7": "a",
+    "8": "a",
+    "9": "b",
+    "10": "d",
+    "11": "c",
+    "12": "b",
+    "13": "b",
+    "14": "a",
+    "15": "a",
+    "16": "b",
+    "17": "b",
+    "18": "b",
+    "19": "a"
+  }
+]

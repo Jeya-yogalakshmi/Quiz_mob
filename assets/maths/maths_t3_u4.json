@@ -1,0 +1,88 @@
+[
+  {
+    "0": "Say whether true or false\n(23 + 4) = (4 + 23)",
+    "1": "Say whether true or false\n(9 + 4) > 12",
+    "2": "Say whether true or false\n(9 + 4) < 12",
+    "3": "Say whether true or false\n11 > 121",
+    "4": "Say whether true or false\n142 < 142",
+    "5": "Say whether true or false\n112 = 112",
+    "6": "Say whether true or false\n(6 × 5) (32 – 2)",
+    "7": "Say whether true or false\n49/7  > 7",
+    "8": "Say whether true or false\n(4 × 3) = (3 × 4)",
+    "9": "Say whether true or false\n(21 + 0) = 21"
+  },
+  {
+    "0": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "1": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "2": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "3": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "4": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "5": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "6": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "7": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "8": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "9": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "a",
+    "2": "b",
+    "3": "b",
+    "4": "b",
+    "5": "a",
+    "6": "a",
+    "7": "b",
+    "8": "a",
+    "9": "a"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "0": "The pigeon started to worry for her friend.",
+    "1": "They would rest on the tree.",
+    "2": "The bird catcher’s clothes were dry.",
+    "3": "The pigeon flew away for dry twigs.",
+    "4": "The bird-catcher let the pigeon jump into the fire.",
+    "5": "The pigeon returned home when it started to _____.",
+    "6": "The bird-catcher had a pigeon in his _____.",
+    "7": "The bird-catcher decided to sit under the _____.",
+    "8": "The hen-pigeon got dry _____ for the bird catcher.",
+    "9": "Identify the character or the speaker:\n“I hope he is safe.”",
+    "10": "Identify the character or the speaker:\n“Do not feel sad dear.”",
+    "11": "Identify the character or the speaker:\n“I will camp here for the night.”",
+    "12": "Identify the character or the speaker:\n“Oh no! What shall I do now?”",
+    "13": "Identify the character or the speaker:\n“I was cruel and selfish.”",
+    "14": "They _____ (start) playing.",
+    "15": "She _____ (write) a letter.",
+    "16": "Choose the correct suffix:\nColour",
+    "17": "Choose the correct suffix:\nThank",
+    "18": "Choose the correct suffix:\nDrive",
+    "19": "Choose the correct suffix:\nRetire"
+  },
+  {
+    "0": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "1": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "2": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "3": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "4": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "5": {
+      "a": "tree",
+      "b": "twigs",
+      "c": "rain",
+      "d": "cage"
+    },
+    "6": {
+      "a": "tree",
+      "b": "twigs",
+      "c": "rain",
+      "d": "cage"
+    },
+    "7": {
+      "a": "tree",
+      "b": "twigs",
+      "c": "rain",
+      "d": "cage"
+    },
+    "8": {
+      "a": "tree",
+      "b": "twigs",
+      "c": "rain",
+      "d": "cage"
+    },
+    "9": {
+      "a": "Hen-pigeon",
+      "b": "Cock-pigeon",
+      "c": "The bird-catcher",
+      "d": ""
+    },
+    "10": {
+      "a": "Hen-pigeon",
+      "b": "Cock-pigeon",
+      "c": "The bird-catcher",
+      "d": ""
+    },
+    "11": {
+      "a": "Hen-pigeon",
+      "b": "Cock-pigeon",
+      "c": "The bird-catcher",
+      "d": ""
+    },
+    "12": {
+      "a": "Hen-pigeon",
+      "b": "Cock-pigeon",
+      "c": "The bird-catcher",
+      "d": ""
+    },
+    "13": {
+      "a": "Hen-pigeon",
+      "b": "Cock-pigeon",
+      "c": "The bird-catcher",
+      "d": ""
+    },
+    "14": {
+      "a": "have started",
+      "b": "has started",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "have written",
+      "b": "has written",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "less",
+      "b": "ment",
+      "c": "ful",
+      "d": "er"
+    },
+    "17": {
+      "a": "less",
+      "b": "ment",
+      "c": "ous",
+      "d": "ful"
+    },
+    "18": {
+      "a": "less",
+      "b": "ment",
+      "c": "ful",
+      "d": "er"
+    },
+    "19": {
+      "a": "less",
+      "b": "ment",
+      "c": "ful",
+      "d": "er"
+    }
+  },
+  {
+    "0": "a",
+    "1": "a",
+    "2": "b",
+    "3": "a",
+    "4": "b",
+    "5": "c",
+    "6": "d",
+    "7": "a",
+    "8": "b",
+    "9": "a",
+    "10": "b",
+    "11": "c",
+    "12": "a",
+    "13": "c",
+    "14": "a",
+    "15": "b",
+    "16": "a",
+    "17": "d",
+    "18": "d",
+    "19": "b"
+  }
+]

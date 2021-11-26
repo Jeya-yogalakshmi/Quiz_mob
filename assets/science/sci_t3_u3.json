@@ -1,0 +1,128 @@
+[
+  {
+    "0": "Chlorofluorocarbon is used in",
+    "1": "Which of the following gas is released by automobiles?",
+    "2": "A wind mill is used to produce .",
+    "3": "Influenza is caused by",
+    "4": "Height of mesosphere which lies after troposphere is",
+    "5": "Second highest layer of Earth’s atmosphere is _______.",
+    "6": "Releasing substances like chemical compounds into the atmosphere is known as _______.",
+    "7": "Airborne diseases can be caused by _______.",
+    "8": "The _______ layer protects us from the harmful UV rays coming from the sun.",
+    "9": "________ is used by plants as nitrates.",
+    "10": "Match the following:\nTroposphere",
+    "11": "Match the following:\nStratosphere",
+    "12": "Match the following:\nExosphere",
+    "13": "Match the following:\nThermosphere",
+    "14": "Match the following:\nMesosphere"
+  },
+  {
+    "0": {
+      "a": "air conditioners",
+      "b": "refrigerator",
+      "c": "Both a & b",
+      "d": "None"
+    },
+    "1": {
+      "a": "Oxygen",
+      "b": "Carbon monoxide",
+      "c": "Nitrogen",
+      "d": "Hydrogen"
+    },
+    "2": {
+      "a": "electric energy",
+      "b": "mechanical energy",
+      "c": "chemical energy",
+      "d": "All of these"
+    },
+    "3": {
+      "a": "bacteria",
+      "b": "virus",
+      "c": "protozoa",
+      "d": "fungus"
+    },
+    "4": {
+      "a": "75to 80 km",
+      "b": "85to 90 km",
+      "c": "70 to 75km",
+      "d": "80 to 85 km"
+    },
+    "5": {
+      "a": "Stratosphere",
+      "b": "Mesosphere",
+      "c": "Thermosphere",
+      "d": "Troposphere"
+    },
+    "6": {
+      "a": "Air pollution",
+      "b": "Air purification",
+      "c": "Air cleaning",
+      "d": "Water pollution"
+    },
+    "7": {
+      "a": "Organisms",
+      "b": "Microorganisms",
+      "c": "Macroorganisms",
+      "d": "Innerorganisms"
+    },
+    "8": {
+      "a": "Mesosphere",
+      "b": "Thermosphere",
+      "c": "Troposphere",
+      "d": "Ozone"
+    },
+    "9": {
+      "a": "Carbon dioxide",
+      "b": "Oxygen",
+      "c": "Nitrogen",
+      "d": "Argon"
+    },
+    "10": {
+      "a": "Ozone layer",
+      "b": "Satellite",
+      "c": "Spacecraft",
+      "d": "Weather change"
+    },
+    "11": {
+      "a": "Ozone layer",
+      "b": "Satellite",
+      "c": "Spacecraft",
+      "d": "Weather change"
+    },
+    "12": {
+      "a": "Ozone layer",
+      "b": "Satellite",
+      "c": "Spacecraft",
+      "d": "Weather change"
+    },
+    "13": {
+      "a": "Ozone layer",
+      "b": "Satellite",
+      "c": "Spacecraft",
+      "d": "Weather change"
+    },
+    "14": {
+      "a": "Ozone layer",
+      "b": "Satellite",
+      "c": "Spacecraft",
+      "d": "Meteors"
+    }
+  },
+  {
+    "0": "c",
+    "1": "b",
+    "2": "a",
+    "3": "b",
+    "4": "d",
+    "5": "c",
+    "6": "a",
+    "7": "b",
+    "8": "d",
+    "9": "c",
+    "10": "d",
+    "11": "a",
+    "12": "b",
+    "13": "c",
+    "14": "d"
+  }
+]

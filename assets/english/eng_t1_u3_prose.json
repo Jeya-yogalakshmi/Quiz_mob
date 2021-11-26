@@ -1,0 +1,192 @@
+[
+  {
+    "0": "Karmugilan went to ______ for higher studies.",
+    "1": "______ broke out in the near by villages.",
+    "2": "He got _______ the disease.",
+    "3": "The villagers, built a ______ on his memory.",
+    "4": "They ate a bowl of ______.",
+    "5": "______ is the memorial for the soldiers.",
+    "6": "Flag day is observed on the ______.",
+    "7": "A ______ dies for the nation.",
+    "8": "______ was a young talented doctor.",
+    "9": "Choose bulldog pattern word",
+    "10": "Choose bulldog pattern word",
+    "11": "Choose bulldog pattern word",
+    "12": "Choose bulldog pattern word",
+    "13": "Choose bulldog pattern word",
+    "14": "Choose bulldog pattern word",
+    "15": "Choose Peacock pattern word",
+    "16": "Choose Peacock pattern word",
+    "17": "Choose Peacock pattern word",
+    "18": "Choose Peacock pattern word",
+    "19": "Choose Turkey pattern word",
+    "20": "Choose Turkey pattern word",
+    "21": "Choose Turkey pattern word",
+    "22": "Choose Turkey pattern word"
+  },
+  {
+    "0": {
+      "a": "New Zealand",
+      "b": "London",
+      "c": "Australia",
+      "d": "USA"
+    },
+    "1": {
+      "a": "malaria",
+      "b": "dengue",
+      "c": "flu",
+      "d": "cholera"
+    },
+    "2": {
+      "a": "cured off",
+      "b": "remedy for",
+      "c": "infected by",
+      "d": "upset"
+    },
+    "3": {
+      "a": "hospital",
+      "b": "statue",
+      "c": "memorial",
+      "d": "library"
+    },
+    "4": {
+      "a": "chickpea",
+      "b": "sundal",
+      "c": "chickpea sundal",
+      "d": "snacks"
+    },
+    "5": {
+      "a": "Amar Jawan",
+      "b": "Amar Jawan Jyoti",
+      "c": "Gandhi Jayanthi",
+      "d": "Amar Jyoti"
+    },
+    "6": {
+      "a": "7th December",
+      "b": "7th November",
+      "c": "17th December",
+      "d": "17th November"
+    },
+    "7": {
+      "a": "Farmer",
+      "b": "Soldier",
+      "c": "Police",
+      "d": "Doctor"
+    },
+    "8": {
+      "a": "Yazhini",
+      "b": "Anandhan",
+      "c": "Yalini",
+      "d": "Karmugilan"
+    },
+    "9": {
+      "a": "Cat",
+      "b": "Father",
+      "c": "Sunset",
+      "d": "Burer"
+    },
+    "10": {
+      "a": "Teacher",
+      "b": "Skyblue",
+      "c": "Sunset",
+      "d": "Party"
+    },
+    "11": {
+      "a": "Goldfish",
+      "b": "Speaker",
+      "c": "Garden",
+      "d": "Party"
+    },
+    "12": {
+      "a": "Cat",
+      "b": "Starfish",
+      "c": "Garden",
+      "d": "Burer"
+    },
+    "13": {
+      "a": "Farmer",
+      "b": "Heater",
+      "c": "Pancake",
+      "d": "Cat"
+    },
+    "14": {
+      "a": "Farmer",
+      "b": "Cowboy",
+      "c": "Burger",
+      "d": "Cat"
+    },
+    "15": {
+      "a": "Farmer",
+      "b": "Heater",
+      "c": "Pancake",
+      "d": "Cat"
+    },
+    "16": {
+      "a": "Teacher",
+      "b": "Airport",
+      "c": "Garden",
+      "d": "March"
+    },
+    "17": {
+      "a": "Curtain",
+      "b": "Heat",
+      "c": "Speaker",
+      "d": "Landmark"
+    },
+    "18": {
+      "a": "Moonlight",
+      "b": "Purse",
+      "c": "Pancake",
+      "d": "Weasel"
+    },
+    "19": {
+      "a": "Board",
+      "b": "Curtain",
+      "c": "Headlight",
+      "d": "Soap"
+    },
+    "20": {
+      "a": "Party",
+      "b": "Snowman",
+      "c": "Rat",
+      "d": "Weasel"
+    },
+    "21": {
+      "a": "Moonlight",
+      "b": "Please",
+      "c": "Pancake",
+      "d": "Farmer"
+    },
+    "22": {
+      "a": "Wheelchair",
+      "b": "Garden",
+      "c": "Interest",
+      "d": "Weasel"
+    }
+  },
+  {
+    "0": "d",
+    "1": "b",
+    "2": "c",
+    "3": "a",
+    "4": "c",
+    "5": "b",
+    "6": "a",
+    "7": "b",
+    "8": "d",
+    "9": "c",
+    "10": "b",
+    "11": "a",
+    "12": "b",
+    "13": "c",
+    "14": "a",
+    "15": "b",
+    "16": "a",
+    "17": "c",
+    "18": "d",
+    "19": "b",
+    "20": "a",
+    "21": "d",
+    "22": "b"
+  }
+]

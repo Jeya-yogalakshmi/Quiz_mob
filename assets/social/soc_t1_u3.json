@@ -1,0 +1,240 @@
+[
+  {
+    "0": "Man is a ________.",
+    "1": "The word civic means ________ of a nation.",
+    "2": "The aim of education is to change a person into a ________.",
+    "3": "________ is the basic value for every individual.",
+    "4": "Always be ________ in discharging duty.",
+    "5": "Match the following:\nPersonal Value",
+    "6": "Match the following:\nCultural value",
+    "7": "Match the following:\nDisciplinary value",
+    "8": "Match the following:\nSocial value",
+    "9": "Match the following:\nUnemployment",
+    "10": "We show _____________ to all living beings.",
+    "11": "Help the poor with ____________.",
+    "12": "____________ is the best policy.",
+    "13": "The best relationship is ____________.",
+    "14": "We show ____________ to our guests.",
+    "15": "We show ____________ to those who suffer.",
+    "16": "Always speak the ____________.",
+    "17": "We must maintain ____________ in public.",
+    "18": "____________ is the best policy.",
+    "19": "Main food of North India is ____________.",
+    "20": "____________ is the main food of south India.",
+    "21": "Grow trees to get______________ .",
+    "22": "Millions benefit if they live ______________ .",
+    "23": "United we ______________ divided we fall.",
+    "24": "Match the Following:\nPeace",
+    "25": "Match the Following:\nEnvironment",
+    "26": "Match the Following:\nPublic property",
+    "27": "Match the Following:\nNational symbol",
+    "28": "Match the Following:\nScientific attitude"
+  },
+  {
+    "0": {
+      "a": "science animal",
+      "b": "social animal",
+      "c": "social ghost",
+      "d": "animal"
+    },
+    "1": {
+      "a": "civilization",
+      "b": "civic",
+      "c": "citizen",
+      "d": "rural"
+    },
+    "2": {
+      "a": "valuable person",
+      "b": "person",
+      "c": "tall person",
+      "d": "huge person"
+    },
+    "3": {
+      "a": "Personal skills",
+      "b": "Person",
+      "c": "value",
+      "d": "Personal value"
+    },
+    "4": {
+      "a": "punctual",
+      "b": "tardy",
+      "c": "lated",
+      "d": "unpunctual"
+    },
+    "5": {
+      "a": "Tolerance",
+      "b": "Affecting Factor",
+      "c": "Honesty",
+      "d": "Punctuality"
+    },
+    "6": {
+      "a": "Tolerance",
+      "b": "Affecting Factor",
+      "c": "Harmony",
+      "d": "Punctuality"
+    },
+    "7": {
+      "a": "Tolerance",
+      "b": "Affecting Factor",
+      "c": "Harmony",
+      "d": "Punctuality"
+    },
+    "8": {
+      "a": "Tolerance",
+      "b": "Affecting Factor",
+      "c": "Harmony",
+      "d": "Punctuality"
+    },
+    "9": {
+      "a": "Tolerance",
+      "b": "Affecting Factor",
+      "c": "Harmony",
+      "d": "Punctuality"
+    },
+    "10": {
+      "a": "Anger",
+      "b": "Dislike",
+      "c": "Love",
+      "d": "Hate"
+    },
+    "11": {
+      "a": "miserliness",
+      "b": "generosity",
+      "c": "selfishness",
+      "d": "tightness"
+    },
+    "12": {
+      "a": "Dishonesty",
+      "b": "uprightness",
+      "c": "selfishness",
+      "d": "Honesty"
+    },
+    "13": {
+      "a": "Enemy",
+      "b": "Hatred",
+      "c": "friendship",
+      "d": "enmity"
+    },
+    "14": {
+      "a": "hospitality",
+      "b": "Generosity",
+      "c": "Welcome",
+      "d": "Sociability"
+    },
+    "15": {
+      "a": "Inhumanity",
+      "b": "Cruelty",
+      "c": "Pity",
+      "d": "mercy"
+    },
+    "16": {
+      "a": "lie",
+      "b": "truth",
+      "c": "fake",
+      "d": "false"
+    },
+    "17": {
+      "a": "conflict",
+      "b": "irritation",
+      "c": "peace",
+      "d": "noise"
+    },
+    "18": {
+      "a": "Dishonesty",
+      "b": "uprightness",
+      "c": "selfishness",
+      "d": "Honesty"
+    },
+    "19": {
+      "a": "Wheat",
+      "b": "Idly",
+      "c": "Rice",
+      "d": "Pizza"
+    },
+    "20": {
+      "a": "Wheat",
+      "b": "Idly",
+      "c": "Rice",
+      "d": "Pizza"
+    },
+    "21": {
+      "a": "snowfall",
+      "b": "rainfall",
+      "c": "fire",
+      "d": "pollution"
+    },
+    "22": {
+      "a": "peacefully",
+      "b": "anxiety",
+      "c": "stress",
+      "d": "angrily"
+    },
+    "23": {
+      "a": "sit",
+      "b": "stand",
+      "c": "jump",
+      "d": "crawl"
+    },
+    "24": {
+      "a": "National Flag",
+      "b": "Mother Teresa",
+      "c": "Tree",
+      "d": "Bus"
+    },
+    "25": {
+      "a": "National Flag",
+      "b": "Mother Teresa",
+      "c": "Tree",
+      "d": "Bus"
+    },
+    "26": {
+      "a": "National Flag",
+      "b": "Mother Teresa",
+      "c": "Tree",
+      "d": "Bus"
+    },
+    "27": {
+      "a": "National Flag",
+      "b": "Mother Teresa",
+      "c": "Tree",
+      "d": "Bus"
+    },
+    "28": {
+      "a": "National Flag",
+      "b": "Mother Teresa",
+      "c": "Tree",
+      "d": "Dr. A.P.J. Abdul Kalam"
+    }
+  },
+  {
+    "0": "b",
+    "1": "c",
+    "2": "a",
+    "3": "d",
+    "4": "a",
+    "5": "c",
+    "6": "c",
+    "7": "d",
+    "8": "a",
+    "9": "b",
+    "10": "c",
+    "11": "b",
+    "12": "d",
+    "13": "c",
+    "14": "a",
+    "15": "d",
+    "16": "b",
+    "17": "c",
+    "18": "d",
+    "19": "a",
+    "20": "c",
+    "21": "b",
+    "22": "a",
+    "23": "b",
+    "24": "b",
+    "25": "c",
+    "26": "d",
+    "27": "a",
+    "28": "d"
+  }
+]

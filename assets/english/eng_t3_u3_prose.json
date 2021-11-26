@@ -1,0 +1,168 @@
+[
+  {
+    "0": "Jana and her family moved to the village _______ back.",
+    "1": "Jana saw a _______ behind her.",
+    "2": "The squirrel ran to the _______ tree.",
+    "3": "The monster tree was protecting the _______.",
+    "4": "The villagers took oath to not harm the _______.",
+    "5": "Choose its young one:\nAlligator",
+    "6": "Choose its young one:\nApe",
+    "7": "Choose its young one:\nBat",
+    "8": "Choose its young one:\nBear",
+    "9": "Choose its young one:\nBuffalo",
+    "10": "Choose its young one:\nCamel",
+    "11": "Choose its young one:\nCat",
+    "12": "Choose its young one:\nCrane",
+    "13": "Choose its young one:\nDeer",
+    "14": "Choose its young one:\nDog",
+    "15": "Choose its young one:\nDuck",
+    "16": "Choose its young one:\nEagle",
+    "17": "Choose its young one:\nElephant",
+    "18": "Choose its young one:\nFish",
+    "19": "Choose its young one:\nFrog"
+  },
+  {
+    "0": {
+      "a": "four month",
+      "b": "one month",
+      "c": "three month",
+      "d": "two month"
+    },
+    "1": {
+      "a": "leaves of the tree",
+      "b": "bunch the trees",
+      "c": "branch of the tree",
+      "d": "a tree"
+    },
+    "2": {
+      "a": "small",
+      "b": "huge",
+      "c": "giant",
+      "d": "monster"
+    },
+    "3": {
+      "a": "bees",
+      "b": "squirrels",
+      "c": "ants",
+      "d": "rabbits"
+    },
+    "4": {
+      "a": "nature",
+      "b": "humans",
+      "c": "animals",
+      "d": "insects"
+    },
+    "5": {
+      "a": "Baby",
+      "b": "Pup",
+      "c": "Hatchling",
+      "d": "Cub"
+    },
+    "6": {
+      "a": "Baby",
+      "b": "Pup",
+      "c": "Calf",
+      "d": "Cub"
+    },
+    "7": {
+      "a": "Kitten",
+      "b": "Pup",
+      "c": "Calf",
+      "d": "Cub"
+    },
+    "8": {
+      "a": "Kitten",
+      "b": "Pup",
+      "c": "Calf",
+      "d": "Cub"
+    },
+    "9": {
+      "a": "Kitten",
+      "b": "Pup",
+      "c": "Calf",
+      "d": "Chick"
+    },
+    "10": {
+      "a": "Kitten",
+      "b": "Fawn",
+      "c": "Calf",
+      "d": "Chick"
+    },
+    "11": {
+      "a": "Kitten",
+      "b": "Fawn",
+      "c": "Pup",
+      "d": "Chick"
+    },
+    "12": {
+      "a": "Duckling",
+      "b": "Pup",
+      "c": "Fawn",
+      "d": "Chick"
+    },
+    "13": {
+      "a": "Duckling",
+      "b": "Pup",
+      "c": "Fawn",
+      "d": "Chick"
+    },
+    "14": {
+      "a": "Kitten",
+      "b": "Pup",
+      "c": "Calf",
+      "d": "Cub"
+    },
+    "15": {
+      "a": "Duckling",
+      "b": "Pup",
+      "c": "Fawn",
+      "d": "Chick"
+    },
+    "16": {
+      "a": "Tadpole",
+      "b": "Pup",
+      "c": "Fry",
+      "d": "Eaglet"
+    },
+    "17": {
+      "a": "Tadpole",
+      "b": "Calf",
+      "c": "Fry",
+      "d": "Eaglet"
+    },
+    "18": {
+      "a": "Tadpole",
+      "b": "Calf",
+      "c": "Fry",
+      "d": "Eaglet"
+    },
+    "19": {
+      "a": "Tadpole",
+      "b": "Calf",
+      "c": "Fry",
+      "d": "Eaglet"
+    }
+  },
+  {
+    "0": "b",
+    "1": "c",
+    "2": "d",
+    "3": "b",
+    "4": "a",
+    "5": "c",
+    "6": "a",
+    "7": "b",
+    "8": "d",
+    "9": "c",
+    "10": "c",
+    "11": "a",
+    "12": "d",
+    "13": "c",
+    "14": "b",
+    "15": "a",
+    "16": "d",
+    "17": "a",
+    "18": "c",
+    "19": "a"
+  }
+]

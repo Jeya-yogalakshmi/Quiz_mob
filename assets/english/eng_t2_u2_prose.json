@@ -1,0 +1,104 @@
+[
+  {
+    "0": "His father wanted him to do well in ______.",
+    "1": "Akilan’s passion is to learn ______.",
+    "2": "Master trained Akilan on a ______.",
+    "3": "Akilan learnt Judo for ______.",
+    "4": "Name the character or speaker:\n“Believe yourself.”",
+    "5": "Name the character or speaker:\n“Learn well, live well!”",
+    "6": "Name the character or speaker:\n“How did I win the competition with a single stroke?”.",
+    "7": "Name the character or speaker:\n“My dear, you learnt the most difficult stroke in Judo.”",
+    "8": "Choose the word with the same meaning\nI ate a big apple.",
+    "9": "Choose the word with the same meaning\nThis is a little dog.",
+    "10": "Choose the word with the same meaning\nI threw a rock in the lake.",
+    "11": "Choose the word with the same meaning\nI am so happy. "
+  },
+  {
+    "0": {
+      "a": "Cricket",
+      "b": "Kabbadi",
+      "c": "studies",
+      "d": ""
+    },
+    "1": {
+      "a": "Judo",
+      "b": "Kalari",
+      "c": "Karate",
+      "d": ""
+    },
+    "2": {
+      "a": "single stroke",
+      "b": "many strokes",
+      "c": "two strokes",
+      "d": ""
+    },
+    "3": {
+      "a": "one year",
+      "b": "two years",
+      "c": "three years",
+      "d": ""
+    },
+    "4": {
+      "a": "Akilan’s father",
+      "b": "Akilan",
+      "c": "Judo master",
+      "d": ""
+    },
+    "5": {
+      "a": "Akilan",
+      "b": "Akilan’s father",
+      "c": "Judo master",
+      "d": ""
+    },
+    "6": {
+      "a": "Akilan",
+      "b": "Akilan’s father",
+      "c": "Judo master",
+      "d": ""
+    },
+    "7": {
+      "a": "Akilan’s father",
+      "b": "Akilan",
+      "c": "Judo master",
+      "d": ""
+    },
+    "8": {
+      "a": "small",
+      "b": "stone",
+      "c": "Glad",
+      "d": "Large"
+    },
+    "9": {
+      "a": "small",
+      "b": "stable",
+      "c": "Big",
+      "d": "Huge"
+    },
+    "10": {
+      "a": "Sick",
+      "b": "stone",
+      "c": "Leap",
+      "d": "Huge"
+    },
+    "11": {
+      "a": "Leap",
+      "b": "Stone",
+      "c": "Glad",
+      "d": "Huge"
+    }
+  },
+  {
+    "0": "c",
+    "1": "a",
+    "2": "a",
+    "3": "b",
+    "4": "c",
+    "5": "b",
+    "6": "a",
+    "7": "c",
+    "8": "d",
+    "9": "a",
+    "10": "b",
+    "11": "c"
+  }
+]

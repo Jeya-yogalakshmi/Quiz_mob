@@ -1,0 +1,192 @@
+[
+  {
+    "0": "The atmosphere is divided ______ into layers.",
+    "1": "The Earth receives heat energy from the ______ .",
+    "2": "World Meteorological Day",
+    "3": "The study of weather is called _______ .",
+    "4": "Zone located in between Tropic cancer and Tropic of Capricorn is _______ zone.",
+    "5": "_______ is used to measure pressure in the air.",
+    "6": "Monsoon is derived from the _______ word.",
+    "7": "Vertical cloud is called _________ .",
+    "8": "________ clouds give convectional rainfall.",
+    "9": "Statement I – The instrument used to measure wind direction in wind vane.\nStatement II – Light travels faster than sound.",
+    "10": "The instrument used to measure heat _______ .",
+    "11": "The imaginary lines drawn parallel to the surface of the earth is _______ .",
+    "12": "Sea breeze blows from _______ in the evening.",
+    "13": "_______ are rain clouds.",
+    "14": "Match the following:\nCirrus clouds",
+    "15": "Match the following:\nStratus cloud",
+    "16": "Match the following:\nCumulus cloud",
+    "17": "Match the following:\nNimbus cloud",
+    "18": "All weather changes occur in the Troposphere.",
+    "19": "Latitudes and Longitudes help us to locate a country.",
+    "20": "Atmosphere gets heated by conduction than solar radiation.",
+    "21": "The main reason for the change of wind direction is to Earth’s rotation.",
+    "22": "Cyclone moves in anti-clockwise direction."
+  },
+  {
+    "0": {
+      "a": "seven",
+      "b": "five",
+      "c": "four",
+      "d": "six"
+    },
+    "1": {
+      "a": "Mars",
+      "b": "Sun",
+      "c": "Venus",
+      "d": "Moon"
+    },
+    "2": {
+      "a": "March – 20",
+      "b": "March – 22",
+      "c": "March – 23",
+      "d": "March – 21"
+    },
+    "3": {
+      "a": "Archaeology",
+      "b": "Ecology",
+      "c": "Sociology",
+      "d": "Meteorology"
+    },
+    "4": {
+      "a": "Torrid",
+      "b": "Temperate",
+      "c": "Cold",
+      "d": "Subtropical"
+    },
+    "5": {
+      "a": "Thermometer",
+      "b": "Wind vane",
+      "c": "Barometer",
+      "d": "Anemometer"
+    },
+    "6": {
+      "a": "English",
+      "b": "Latin",
+      "c": "Greek",
+      "d": "Arabian"
+    },
+    "7": {
+      "a": "Nimbus clouds",
+      "b": "Cirrus cloud",
+      "c": "Cumulus clouds",
+      "d": "Stratus clouds"
+    },
+    "8": {
+      "a": "Nimbus",
+      "b": "Cirrus",
+      "c": "Stratus",
+      "d": "Cumulus"
+    },
+    "9": {
+      "a": "Statement I is True, II is False",
+      "b": "Statement I,II are True",
+      "c": "Statement I,II are False",
+      "d": "Statement I is False, II is True"
+    },
+    "10": {
+      "a": "barometer",
+      "b": "thermometer",
+      "c": "Calorimeter",
+      "d": "hygrometer"
+    },
+    "11": {
+      "a": "Latitudes",
+      "b": "Altitudes",
+      "c": "Longitudes",
+      "d": "Meridian"
+    },
+    "12": {
+      "a": "sea to forest",
+      "b": "sea to land",
+      "c": "land to sea",
+      "d": "forest to sea"
+    },
+    "13": {
+      "a": "Stratus",
+      "b": "Cirrus",
+      "c": "Nimbus",
+      "d": "Cumulus"
+    },
+    "14": {
+      "a": "do not give rain",
+      "b": "Storm cloud",
+      "c": "Grey sheet",
+      "d": "Looks like puffy white cotton"
+    },
+    "15": {
+      "a": "do not give rain",
+      "b": "Storm cloud",
+      "c": "Grey sheet",
+      "d": "Looks like puffy white cotton"
+    },
+    "16": {
+      "a": "do not give rain",
+      "b": "Storm cloud",
+      "c": "Grey sheet",
+      "d": "Looks like puffy white cotton"
+    },
+    "17": {
+      "a": "do not give rain",
+      "b": "Storm cloud",
+      "c": "Grey sheet",
+      "d": "Looks like puffy white cotton"
+    },
+    "18": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "b",
+    "1": "b",
+    "2": "c",
+    "3": "d",
+    "4": "a",
+    "5": "c",
+    "6": "d",
+    "7": "a",
+    "8": "d",
+    "9": "b",
+    "10": "c",
+    "11": "a",
+    "12": "b",
+    "13": "c",
+    "14": "a",
+    "15": "c",
+    "16": "d",
+    "17": "b",
+    "18": "a",
+    "19": "a",
+    "20": "a",
+    "21": "a",
+    "22": "a"
+  }
+]

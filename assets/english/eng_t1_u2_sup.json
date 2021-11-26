@@ -1,0 +1,120 @@
+[
+  {
+    "0": "The farmer had _______ daughters.",
+    "1": "He offered _______ to his daughters.",
+    "2": "The second daughter _______ the millet to a flock of birds.",
+    "3": "Choose the correct plural form:",
+    "4": "Choose the correct plural form:",
+    "5": "Choose the correct plural form:",
+    "6": "Choose the correct plural form:",
+    "7": "Choose the correct plural form:",
+    "8": "Match the rhyming words:\nhealth",
+    "9": "Match the rhyming words:\nhook",
+    "10": "Match the rhyming words:\nharm",
+    "11": "She _______ the homework at 6 ‘o’ clock. (write).",
+    "12": "They _______ when I arrived there. (play)",
+    "13": "I _______ while he was singing. (dance)"
+  },
+  {
+    "0": {
+      "a": "three",
+      "b": "four",
+      "c": "five",
+      "d": "two"
+    },
+    "1": {
+      "a": "food",
+      "b": "grain",
+      "c": "millet",
+      "d": "water"
+    },
+    "2": {
+      "a": "attacks",
+      "b": "feeds",
+      "c": "kills",
+      "d": "plucks"
+    },
+    "3": {
+      "a": "deer",
+      "b": "deers",
+      "c": "deeres",
+      "d": "deeries"
+    },
+    "4": {
+      "a": "calfs",
+      "b": "calf",
+      "c": "calves",
+      "d": "calfes"
+    },
+    "5": {
+      "a": "goose",
+      "b": "geese",
+      "c": "gooses",
+      "d": "geeses"
+    },
+    "6": {
+      "a": "teeths",
+      "b": "tooths",
+      "c": "tooth",
+      "d": "teeth"
+    },
+    "7": {
+      "a": "knifes",
+      "b": "knives",
+      "c": "knife",
+      "d": "knive"
+    },
+    "8": {
+      "a": "wealth",
+      "b": "charm",
+      "c": "look",
+      "d": ""
+    },
+    "9": {
+      "a": "wealth",
+      "b": "look",
+      "c": "charm",
+      "d": ""
+    },
+    "10": {
+      "a": "look",
+      "b": "wealth",
+      "c": "charm",
+      "d": ""
+    },
+    "11": {
+      "a": "was writing",
+      "b": "were writing",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "was playing",
+      "b": "were playing",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "was dancing",
+      "b": "were dancing",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "c",
+    "2": "b",
+    "3": "a",
+    "4": "c",
+    "5": "b",
+    "6": "d",
+    "7": "b",
+    "8": "a",
+    "9": "b",
+    "10": "c",
+    "11": "a",
+    "12": "b",
+    "13": "a"
+  }
+]

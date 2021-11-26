@@ -1,0 +1,160 @@
+[
+  {
+    "0": "Jaswantgarh is named after the Indian soldier _______.",
+    "1": "The Chinese troops attacked the lonely Indian post located in _______.",
+    "2": "Jaswant was helped by _______ tribal girls.",
+    "3": "Jaswant managed to kill _______ Chinese soldiers.",
+    "4": "Jaswant Singh Rawat was awarded _______.",
+    "5": "Nauranang is in Himachal Pradesh.",
+    "6": "The battle of Nauranang lasted for three days.",
+    "7": "Jaswant decided to stay in his post.",
+    "8": "Jaswant was captured alive.",
+    "9": "According to the Indian army, Jaswant is still serving.",
+    "10": "Divide the following words:\ngarden",
+    "11": "Divide the following words:\nreason",
+    "12": "Divide the following words:\nturkey",
+    "13": "Divide the following words:\npeanut",
+    "14": "Divide the following words:\nsky blue",
+    "15": "She wakes up _______ 5 ‘o’ clock.",
+    "16": "_______ summer, we have more holidays.",
+    "17": "We celebrate Independence day ___ 15th August, every year.",
+    "18": "He walks usually _______ the morning."
+  },
+  {
+    "0": {
+      "a": "The Mahavir Chakra",
+      "b": "Nauranang",
+      "c": "Jaswant Singh Rawat",
+      "d": "village"
+    },
+    "1": {
+      "a": "Nauranang",
+      "b": "village",
+      "c": "The Mahavir Chakra",
+      "d": "Jaswant Singh Rawat"
+    },
+    "2": {
+      "a": "Nauranang",
+      "b": "Jaswant Singh Rawat",
+      "c": "The Mahavir Chakra",
+      "d": "village"
+    },
+    "3": {
+      "a": "200",
+      "b": "350",
+      "c": "300",
+      "d": "375"
+    },
+    "4": {
+      "a": "Nauranang",
+      "b": "village",
+      "c": "The Mahavir Chakra",
+      "d": "Jaswant Singh Rawat"
+    },
+    "5": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "6": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "7": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "8": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "9": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "10": {
+      "a": "gar/den",
+      "b": "ga/rden",
+      "c": "gard/en",
+      "d": "g/arden"
+    },
+    "11": {
+      "a": "re/ason",
+      "b": "rea/son",
+      "c": "reas/on",
+      "d": "reaso/n"
+    },
+    "12": {
+      "a": "turk/ey",
+      "b": "tu/rkey",
+      "c": "tur/key",
+      "d": "turke/y"
+    },
+    "13": {
+      "a": "pe/anut",
+      "b": "pean/ut",
+      "c": "pea/nut",
+      "d": "peanu/t"
+    },
+    "14": {
+      "a": "skybl/ue",
+      "b": "skyb/lue",
+      "c": "sk/yblue",
+      "d": "sky/blue"
+    },
+    "15": {
+      "a": "on",
+      "b": "In",
+      "c": "at",
+      "d": ""
+    },
+    "16": {
+      "a": "on",
+      "b": "In",
+      "c": "at",
+      "d": ""
+    },
+    "17": {
+      "a": "on",
+      "b": "In",
+      "c": "at",
+      "d": ""
+    },
+    "18": {
+      "a": "on",
+      "b": "In",
+      "c": "at",
+      "d": ""
+    }
+  },
+  {
+    "0": "c",
+    "1": "a",
+    "2": "d",
+    "3": "c",
+    "4": "c",
+    "5": "b",
+    "6": "a",
+    "7": "a",
+    "8": "b",
+    "9": "a",
+    "10": "a",
+    "11": "b",
+    "12": "c",
+    "13": "c",
+    "14": "d",
+    "15": "c",
+    "16": "b",
+    "17": "a",
+    "18": "b"
+  }
+]

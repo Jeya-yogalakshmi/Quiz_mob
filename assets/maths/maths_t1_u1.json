@@ -1,0 +1,168 @@
+[
+  {
+    "0": "Cube has by 6 square faces.",
+    "1": "The height and slant height of the cone are equal",
+    "2": "A Cuboid has 7 vertices.",
+    "3": "Two bases lie in upper and lower surfaces of a cylinder.",
+    "4": "Sphere is a 3D Shape.",
+    "5": "Among the following letters, find out which one would look same after half turn.\n X, H, A, N, B, O, J, I, D, S",
+    "6": "Find the numbers which will look same on a half-turn\n1, 2, 3, 4, 5, 0, 8",
+    "7": "The angles below 90° and above 0° are called as _________",
+    "8": "The angles below 180° and above 90° are called as __________",
+    "9": "By joining two right angles ________ angle is formed",
+    "10": "Hand of a clock at 3.20 shows ________ angle.",
+    "11": "In the following letters, which one forms the right angle in it?",
+    "12": "The angle formed by the nail cutter is _______",
+    "13": "Name the angles formed when the vessels are lifted by tongs in the kitchen.",
+    "14": "Cuboid is covered by 6 rectangles _________",
+    "15": "The height and slant height of the cone are unequal",
+    "16": "The cube has 8 vertices",
+    "17": "Sphere has vertices and edges",
+    "18": "Rectangle is a 2-D shape",
+    "19": "Hand of a clock at 3:00 shows ______ angle."
+  },
+  {
+    "0": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "1": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "2": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "3": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "4": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "5": {
+      "a": "X, H, O, I, S",
+      "b": "X, H, N, I, S",
+      "c": "X, H, N, O, I, S",
+      "d": "X, H, O, J, I, S"
+    },
+    "6": {
+      "a": "1, 4, 8",
+      "b": "1, 2, 3, 4",
+      "c": "1, 4, 0, 8",
+      "d": "1, 0, 8"
+    },
+    "7": {
+      "a": "straight angle",
+      "b": "obtuse angle.",
+      "c": "acute angle",
+      "d": "right angle"
+    },
+    "8": {
+      "a": "straight angle",
+      "b": "obtuse angle.",
+      "c": "acute angle",
+      "d": "right angle"
+    },
+    "9": {
+      "a": "straight angle",
+      "b": "obtuse angle.",
+      "c": "acute angle",
+      "d": "right angle"
+    },
+    "10": {
+      "a": "straight",
+      "b": "obtuse",
+      "c": "acute",
+      "d": "right"
+    },
+    "11": {
+      "a": "L",
+      "b": "K",
+      "c": "Z",
+      "d": "N"
+    },
+    "12": {
+      "a": "straight",
+      "b": "obtuse",
+      "c": "acute",
+      "d": "right"
+    },
+    "13": {
+      "a": "straight angle",
+      "b": "obtuse angle.",
+      "c": "acute angle",
+      "d": "right angle"
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "straight",
+      "b": "obtuse",
+      "c": "acute",
+      "d": "right"
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "b",
+    "3": "a",
+    "4": "a",
+    "5": "c",
+    "6": "d",
+    "7": "c",
+    "8": "b",
+    "9": "a",
+    "10": "c",
+    "11": "a",
+    "12": "c",
+    "13": "b",
+    "14": "a",
+    "15": "a",
+    "16": "a",
+    "17": "b",
+    "18": "a",
+    "19": "d"
+  }
+]

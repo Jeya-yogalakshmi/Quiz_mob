@@ -1,0 +1,232 @@
+[
+  {
+    "0": "Choose the rhyming word:\nNature –",
+    "1": "Choose the rhyming word:\nTree –",
+    "2": "Choose the rhyming word:\nBird –",
+    "3": "Choose the rhyming word:\nFace –",
+    "4": "Choose the rhyming word:\nCulture –",
+    "5": "Mother nature gives everything for all ______.",
+    "6": "Fruits and shadows are free under the ______.",
+    "7": "______ is our culture.",
+    "8": "Fortune knocks with its best who ______ for their guest.",
+    "9": "Welcome guests to win everyone’s ______ in life’s race.",
+    "10": "I ______ the TajMahal.",
+    "11": "We ______ the animal in our trap.",
+    "12": "You ______ a beautiful painting.",
+    "13": "They ______ in yellow colour.",
+    "14": "He ______ a house in America.",
+    "15": "She ______ her exam.",
+    "16": "It ______ the bus stop.",
+    "17": "I ______ never seen a cobra.",
+    "18": "We ______ not found the dog yet.",
+    "19": "You ______ arrived at the right time.",
+    "20": "They ______ written three letters already.",
+    "21": "He ______ just lost his wallet.",
+    "22": "She ______ never forgotten her bag.",
+    "23": "John has ______ a letter to his father.",
+    "24": "Akshaya’s brothers have ______ to the educational tour.",
+    "25": "We have ______ the first prize twice in 2 years.",
+    "26": "Hilda has ______ a new toy to play.",
+    "27": "Vithya and Fathima have ______ biryani for the party."
+  },
+  {
+    "0": {
+      "a": "Race",
+      "b": "Free",
+      "c": "Creature",
+      "d": "Future"
+    },
+    "1": {
+      "a": "Race",
+      "b": "Free",
+      "c": "Creature",
+      "d": "Future"
+    },
+    "2": {
+      "a": "Herd",
+      "b": "Free",
+      "c": "Creature",
+      "d": "Future"
+    },
+    "3": {
+      "a": "Creature",
+      "b": "Free",
+      "c": "Race",
+      "d": "Future"
+    },
+    "4": {
+      "a": "Race",
+      "b": "Free",
+      "c": "Creature",
+      "d": "Future"
+    },
+    "5": {
+      "a": "tree",
+      "b": "creatures",
+      "c": "cares",
+      "d": "virtue"
+    },
+    "6": {
+      "a": "tree",
+      "b": "creatures",
+      "c": "cares",
+      "d": "virtue"
+    },
+    "7": {
+      "a": "tree",
+      "b": "creatures",
+      "c": "cares",
+      "d": "virtue"
+    },
+    "8": {
+      "a": "tree",
+      "b": "creatures",
+      "c": "cares",
+      "d": "virtue"
+    },
+    "9": {
+      "a": "tree",
+      "b": "creatures",
+      "c": "hearts",
+      "d": "virtue"
+    },
+    "10": {
+      "a": "have visited",
+      "b": "has visited",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "have caught",
+      "b": "has caught",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "have made",
+      "b": "has made",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "have dressed",
+      "b": "has dressed",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "have bought",
+      "b": "has bought",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "have written",
+      "b": "has written",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "have left",
+      "b": "has left",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "have",
+      "b": "has",
+      "c": "",
+      "d": ""
+    },
+    "23": {
+      "a": "gone",
+      "b": "miss",
+      "c": "won",
+      "d": "written"
+    },
+    "24": {
+      "a": "see",
+      "b": "drank",
+      "c": "gone",
+      "d": "spoke"
+    },
+    "25": {
+      "a": "prepared",
+      "b": "won",
+      "c": "given",
+      "d": "taken"
+    },
+    "26": {
+      "a": "gone",
+      "b": "play",
+      "c": "written",
+      "d": "taken"
+    },
+    "27": {
+      "a": "drank",
+      "b": "spoke",
+      "c": "prepared",
+      "d": "taken"
+    }
+  },
+  {
+    "0": "c",
+    "1": "b",
+    "2": "a",
+    "3": "c",
+    "4": "d",
+    "5": "b",
+    "6": "a",
+    "7": "d",
+    "8": "c",
+    "9": "c",
+    "10": "a",
+    "11": "a",
+    "12": "a",
+    "13": "a",
+    "14": "b",
+    "15": "b",
+    "16": "b",
+    "17": "a",
+    "18": "a",
+    "19": "a",
+    "20": "a",
+    "21": "b",
+    "22": "b",
+    "23": "d",
+    "24": "c",
+    "25": "b",
+    "26": "d",
+    "27": "c"
+  }
+]

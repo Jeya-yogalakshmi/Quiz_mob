@@ -1,0 +1,208 @@
+[
+  {
+    "0": "The rich man ______ at the beggar.",
+    "1": "A man in ______ clothes stopped near him.",
+    "2": "The hut was very ______.",
+    "3": "Kaliyan worked in a ______.",
+    "4": "The old man helped ______ and ______.",
+    "5": "Match the following:\ngarden",
+    "6": "Match the following:\ntrash can",
+    "7": "Match the following:\nold man",
+    "8": "Match the following:\nhut",
+    "9": "Match the following:\ngruel",
+    "10": "Choose the appropriate Suffix:\nTooth",
+    "11": "Choose the appropriate Suffix:\nCare",
+    "12": "Choose the appropriate Suffix:\nJoy",
+    "13": "Choose the appropriate Suffix:\nBeauty",
+    "14": "Choose the appropriate Suffix:\nSing",
+    "15": "Choose the appropriate Suffix:\nPaint",
+    "16": "Choose the appropriate Suffix:\nJudge",
+    "17": "Choose the appropriate Suffix:\nTreat",
+    "18": "dance + er ______",
+    "19": "entertain + ment ______",
+    "20": "Choose the appropriate Suffix:\nPeace",
+    "21": "Choose the appropriate Suffix:\nPray",
+    "22": "Choose the appropriate Suffix:\nRest",
+    "23": "Choose the appropriate Suffix:\nGovern",
+    "24": "Choose the appropriate Suffix:\nDrive"
+  },
+  {
+    "0": {
+      "a": "Pleaded",
+      "b": "shouted",
+      "c": "asked",
+      "d": "talked"
+    },
+    "1": {
+      "a": "Clean",
+      "b": "Neat",
+      "c": "shabby",
+      "d": "Rich"
+    },
+    "2": {
+      "a": "small",
+      "b": "tall",
+      "c": "big",
+      "d": "huge"
+    },
+    "3": {
+      "a": "nearly house",
+      "b": "nearly hotel",
+      "c": "nearly palace",
+      "d": "nearly farm"
+    },
+    "4": {
+      "a": "the poor, the rich",
+      "b": "the rich, the needy",
+      "c": "the poor, the needy",
+      "d": "the helpless, the needy"
+    },
+    "5": {
+      "a": "earthen pot",
+      "b": "hungry and tired",
+      "c": "very small",
+      "d": "well maintained"
+    },
+    "6": {
+      "a": "earthen pot",
+      "b": "hungry and tired",
+      "c": "wasted food",
+      "d": "well maintained"
+    },
+    "7": {
+      "a": "very small",
+      "b": "hungry and tired",
+      "c": "wasted food",
+      "d": "well maintained"
+    },
+    "8": {
+      "a": "very small",
+      "b": "hungry and tired",
+      "c": "wasted food",
+      "d": "well maintained"
+    },
+    "9": {
+      "a": "very small",
+      "b": "earthen pot",
+      "c": "wasted food",
+      "d": "well maintained"
+    },
+    "10": {
+      "a": "Toothless",
+      "b": "Toothful",
+      "c": "Toother",
+      "d": "Toothment"
+    },
+    "11": {
+      "a": "Careless",
+      "b": "Careful",
+      "c": "Carees",
+      "d": "Carement"
+    },
+    "12": {
+      "a": "Joyless",
+      "b": "Joyful",
+      "c": "Joyer",
+      "d": "Joyment"
+    },
+    "13": {
+      "a": "Beautiless",
+      "b": "Beautiful",
+      "c": "Beautier",
+      "d": "Beautiment"
+    },
+    "14": {
+      "a": "Singless",
+      "b": "Singful",
+      "c": "Singer",
+      "d": "Singment"
+    },
+    "15": {
+      "a": "Paintless",
+      "b": "Paintful",
+      "c": "Painter",
+      "d": "Paintment"
+    },
+    "16": {
+      "a": "Judgeless",
+      "b": "Judgeful",
+      "c": "Judgeer",
+      "d": "Judgement"
+    },
+    "17": {
+      "a": "Treatless",
+      "b": "Treatful",
+      "c": "Treater",
+      "d": "Treatment"
+    },
+    "18": {
+      "a": "daner",
+      "b": "dancr",
+      "c": "danceer",
+      "d": "dancer"
+    },
+    "19": {
+      "a": "entertainment",
+      "b": "entertanment",
+      "c": "entertaiment",
+      "d": "entertainent"
+    },
+    "20": {
+      "a": "Peaceless",
+      "b": "Peaceful",
+      "c": "Peacer",
+      "d": "Peacement"
+    },
+    "21": {
+      "a": "Prayless",
+      "b": "Prayful",
+      "c": "Prayer",
+      "d": "Prayment"
+    },
+    "22": {
+      "a": "Restless",
+      "b": "Restful",
+      "c": "Rester",
+      "d": "Restment"
+    },
+    "23": {
+      "a": "Governless",
+      "b": "Governful",
+      "c": "Governer",
+      "d": "Government"
+    },
+    "24": {
+      "a": "Driveless",
+      "b": "Driveful",
+      "c": "Driver",
+      "d": "Drivement"
+    }
+  },
+  {
+    "0": "b",
+    "1": "c",
+    "2": "a",
+    "3": "d",
+    "4": "c",
+    "5": "d",
+    "6": "c",
+    "7": "b",
+    "8": "a",
+    "9": "b",
+    "10": "a",
+    "11": "a",
+    "12": "b",
+    "13": "b",
+    "14": "c",
+    "15": "c",
+    "16": "d",
+    "17": "d",
+    "18": "d",
+    "19": "a",
+    "20": "b",
+    "21": "c",
+    "22": "a",
+    "23": "d",
+    "24": "c"
+  }
+]

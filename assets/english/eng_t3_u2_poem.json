@@ -1,0 +1,88 @@
+[
+  {
+    "0": "Each morning, I brush my teeth and stare at ______ in the mirror.",
+    "1": "Dad and I painted the trailer ______.",
+    "2": "The children made holiday decorations by ______.",
+    "3": "Paul copies his friend’s homework instead of doing it ______.",
+    "4": "Please make at home while you wait for ______.",
+    "5": "I like ______.",
+    "6": "She put ______ into trouble.",
+    "7": "Teachers teach ______ a new lesson every day.",
+    "8": "The machine will destroy ______ once its task is done.",
+    "9": "You made it harder for ______."
+  },
+  {
+    "0": {
+      "a": "myself",
+      "b": "himself",
+      "c": "herself",
+      "d": "itself"
+    },
+    "1": {
+      "a": "myself",
+      "b": "itself",
+      "c": "ourselves",
+      "d": "himself"
+    },
+    "2": {
+      "a": "their selves",
+      "b": "itself",
+      "c": "ourselves",
+      "d": "themselves"
+    },
+    "3": {
+      "a": "yourself",
+      "b": "himself",
+      "c": "itself",
+      "d": "myself"
+    },
+    "4": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "himself",
+      "d": "yourselves"
+    },
+    "5": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "myself",
+      "d": "himself"
+    },
+    "6": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "ourselves",
+      "d": "yourself"
+    },
+    "7": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "ourselves",
+      "d": "yourself"
+    },
+    "8": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "yourself",
+      "d": "itself"
+    },
+    "9": {
+      "a": "themselves",
+      "b": "herself",
+      "c": "ourselves",
+      "d": "yourself"
+    }
+  },
+  {
+    "0": "a",
+    "1": "c",
+    "2": "d",
+    "3": "b",
+    "4": "d",
+    "5": "c",
+    "6": "b",
+    "7": "a",
+    "8": "d",
+    "9": "d"
+  }
+]

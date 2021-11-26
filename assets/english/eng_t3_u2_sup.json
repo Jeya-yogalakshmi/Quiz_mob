@@ -1,0 +1,112 @@
+[
+  {
+    "0": "Tenzin is from ______.",
+    "1": "Tenzin’s family first lived in ______.",
+    "2": "If we didn’t have boundaries, we don’t need ______.",
+    "3": "______ fights with everyone in school.",
+    "4": "Miss Malliga teaches ______.",
+    "5": "Match the clipped words:\nPhoto",
+    "6": "Match the clipped words:\nMath",
+    "7": "Match the clipped words:\nCent",
+    "8": "We bought a new ______.(refrigerator)",
+    "9": "He broke his ______. (spectacles)",
+    "10": "We visited the ______. (zoological park)",
+    "11": "Every morning, I brush my teeth and stare at ______ in the mirror.",
+    "12": "The children made holiday decorations by ______."
+  },
+  {
+    "0": {
+      "a": "Himachal Pradesh",
+      "b": "Tibet",
+      "c": "Jharkhand",
+      "d": "Uttar pradesh"
+    },
+    "1": {
+      "a": "Himachal Pradesh",
+      "b": "Tibet",
+      "c": "Jharkhand",
+      "d": "Uttar pradesh"
+    },
+    "2": {
+      "a": "Kind heart",
+      "b": "computers",
+      "c": "weapons",
+      "d": "anything"
+    },
+    "3": {
+      "a": "Nimmi's friend",
+      "b": "Tenzin",
+      "c": "Tenzin's father",
+      "d": "Nimmi"
+    },
+    "4": {
+      "a": "Kind heart",
+      "b": "computers",
+      "c": "weapons",
+      "d": "anything"
+    },
+    "5": {
+      "a": "mathematics",
+      "b": "centum",
+      "c": "photograph",
+      "d": ""
+    },
+    "6": {
+      "a": "mathematics",
+      "b": "centum",
+      "c": "photograph",
+      "d": ""
+    },
+    "7": {
+      "a": "mathematics",
+      "b": "centum",
+      "c": "photograph",
+      "d": ""
+    },
+    "8": {
+      "a": "photo",
+      "b": "zoo",
+      "c": "specs",
+      "d": "fridge"
+    },
+    "9": {
+      "a": "photo",
+      "b": "zoo",
+      "c": "specs",
+      "d": "fridge"
+    },
+    "10": {
+      "a": "photo",
+      "b": "zoo",
+      "c": "specs",
+      "d": "fridge"
+    },
+    "11": {
+      "a": "himself",
+      "b": "herself",
+      "c": "myself",
+      "d": "itself"
+    },
+    "12": {
+      "a": "itself",
+      "b": "theirselves",
+      "c": "themselves",
+      "d": "ourselves"
+    }
+  },
+  {
+    "0": "b",
+    "1": "a",
+    "2": "c",
+    "3": "d",
+    "4": "b",
+    "5": "c",
+    "6": "a",
+    "7": "b",
+    "8": "d",
+    "9": "c",
+    "10": "b",
+    "11": "c",
+    "12": "c"
+  }
+]

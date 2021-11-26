@@ -1,0 +1,224 @@
+[
+  {
+    "0": "Match the following:  cuckoo",
+    "1": "Match the following:  breeze",
+    "2": "Match the following:  river",
+    "3": "Match the following:  fish",
+    "4": "correct plural word: Lion",
+    "5": "correct plural word: Leaf",
+    "6": "correct plural word: Knife",
+    "7": "correct plural word: Tooth",
+    "8": "correct plural word: Foot",
+    "9": "correct plural word: Woman",
+    "10": "correct plural word: Man",
+    "11": "correct plural word: Child",
+    "12": "correct plural word: Ox",
+    "13": "correct plural word: Mouse",
+    "14": "correct plural word: Sheep",
+    "15": "correct plural word: Deer",
+    "16": "correct plural word: Tomato",
+    "17": "correct plural word: Potato",
+    "18": "correct plural word: Fish",
+    "19": "correct plural word: Goose",
+    "20": "correct plural word: Mango",
+    "21": "correct plural word: Chair",
+    "22": "correct plural word: Box",
+    "23": "correct plural word: Spectacles",
+    "24": "correct plural word: Donkey",
+    "25": "correct plural word: Radio",
+    "26": "correct plural word: Book"
+  },
+  {
+    "0": {
+      "a": "sings",
+      "b": "blows",
+      "c": "flows",
+      "d": "swims"
+    },
+    "1": {
+      "a": "sings",
+      "b": "blows",
+      "c": "flows",
+      "d": "swims"
+    },
+    "2": {
+      "a": "sings",
+      "b": "blows",
+      "c": "flows",
+      "d": "swims"
+    },
+    "3": {
+      "a": "sings",
+      "b": "blows",
+      "c": "flows",
+      "d": "swims"
+    },
+    "4": {
+      "a": "Lioness",
+      "b": "Lions",
+      "c": "Lion",
+      "d": "Liones"
+    },
+    "5": {
+      "a": "Leaves",
+      "b": "Leafes",
+      "c": "Leaf",
+      "d": "Leafs"
+    },
+    "6": {
+      "a": "Knifes",
+      "b": "Knives",
+      "c": "Knife",
+      "d": "Knifees"
+    },
+    "7": {
+      "a": "Teeth",
+      "b": "Toothes",
+      "c": "Tooths",
+      "d": "Tooth"
+    },
+    "8": {
+      "a": "Feet",
+      "b": "Foots",
+      "c": "Footes",
+      "d": "Feets"
+    },
+    "9": {
+      "a": "Womens",
+      "b": "Women",
+      "c": "Womenes",
+      "d": "Womans"
+    },
+    "10": {
+      "a": "Men",
+      "b": "Mans",
+      "c": "Man",
+      "d": "Mens"
+    },
+    "11": {
+      "a": "Childrens",
+      "b": "Childs",
+      "c": "Children",
+      "d": "Childes"
+    },
+    "12": {
+      "a": "Oxs",
+      "b": "Ox",
+      "c": "Oxes",
+      "d": "Oxen"
+    },
+    "13": {
+      "a": "Mouss",
+      "b": "Mices",
+      "c": "Mice",
+      "d": "Mouses"
+    },
+    "14": {
+      "a": "Sheeps",
+      "b": "Sheep",
+      "c": "Sheepes",
+      "d": "Shep"
+    },
+    "15": {
+      "a": "Deer",
+      "b": "Dear",
+      "c": "Deers",
+      "d": "Deeres"
+    },
+    "16": {
+      "a": "Tomatos",
+      "b": "Tomato",
+      "c": "Tomatoes",
+      "d": "Tomaties"
+    },
+    "17": {
+      "a": "Potatoes",
+      "b": "Potatos",
+      "c": "Potato",
+      "d": "Potats"
+    },
+    "18": {
+      "a": "Fishs",
+      "b": "Fishes",
+      "c": "Fish",
+      "d": "Fishies"
+    },
+    "19": {
+      "a": "Gooses",
+      "b": "Geese",
+      "c": "Goosees",
+      "d": "Geeses"
+    },
+    "20": {
+      "a": "Mangees",
+      "b": "Mango",
+      "c": "Mangos",
+      "d": "Mangoes"
+    },
+    "21": {
+      "a": "Chair",
+      "b": "Chaires",
+      "c": "Chairs",
+      "d": ""
+    },
+    "22": {
+      "a": "Boxes",
+      "b": "Box",
+      "c": "Boxs",
+      "d": "Boxies"
+    },
+    "23": {
+      "a": "Spectacless",
+      "b": "Speces",
+      "c": "Specs",
+      "d": "Spectacles"
+    },
+    "24": {
+      "a": "Donkies",
+      "b": "Donkey",
+      "c": "Donkeys",
+      "d": "Donkeyes"
+    },
+    "25": {
+      "a": "Radioes",
+      "b": "Radios",
+      "c": "Radio",
+      "d": "Radies"
+    },
+    "26": {
+      "a": "Bookes",
+      "b": "Book",
+      "c": "Bookss",
+      "d": "Books"
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "c",
+    "3": "d",
+    "4": "b",
+    "5": "a",
+    "6": "b",
+    "7": "a",
+    "8": "a",
+    "9": "b",
+    "10": "a",
+    "11": "c",
+    "12": "d",
+    "13": "c",
+    "14": "b",
+    "15": "a",
+    "16": "c",
+    "17": "a",
+    "18": "c",
+    "19": "b",
+    "20": "d",
+    "21": "c",
+    "22": "a",
+    "23": "d",
+    "24": "c",
+    "25": "b",
+    "26": "d"
+  }
+]

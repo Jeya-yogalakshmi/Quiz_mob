@@ -1,0 +1,72 @@
+[
+  {
+    "0": "Palaeolithic humans,",
+    "1": "________ was the first pet animal of man.",
+    "2": "What was the first metal discovered by early human?",
+    "3": "Early man lived in ________.",
+    "4": "The Stone Age is the period in which Stones were used as________ .",
+    "5": "________ was used to produce fire.",
+    "6": "________ is the first scientific invention of man.",
+    "7": "At the end of New Stone Age, ________ was invented."
+  },
+  {
+    "0": {
+      "a": "Wore leaves and skin of animals",
+      "b": "Wore woolen clothes.",
+      "c": "Wore cotton clothes",
+      "d": ""
+    },
+    "1": {
+      "a": "Horse",
+      "b": "Dog",
+      "c": "Cow",
+      "d": ""
+    },
+    "2": {
+      "a": "Gold",
+      "b": "Iron",
+      "c": "Copper",
+      "d": ""
+    },
+    "3": {
+      "a": "caves",
+      "b": "holes of big tree",
+      "c": "Both of the above",
+      "d": "None of the above"
+    },
+    "4": {
+      "a": "Clothes",
+      "b": "Shelter",
+      "c": "Food",
+      "d": "weapons"
+    },
+    "5": {
+      "a": "Scratching two stones",
+      "b": "Hitting two stones",
+      "c": "Having two stones",
+      "d": "Taking two stones"
+    },
+    "6": {
+      "a": "Wooden wheels",
+      "b": "Stone wheels",
+      "c": "Fire",
+      "d": "cooking"
+    },
+    "7": {
+      "a": "Gold",
+      "b": "Copper",
+      "c": "Iron",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "c",
+    "3": "c",
+    "4": "d",
+    "5": "a",
+    "6": "b",
+    "7": "b"
+  }
+]

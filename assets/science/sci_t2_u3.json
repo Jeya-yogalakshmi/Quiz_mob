@@ -1,0 +1,128 @@
+[
+  {
+    "0": "Male reproductive organ of the flower is _______.",
+    "1": "Pollination by wind is also known as _______.",
+    "2": "Entamophily is known as _______.",
+    "3": "Pollination by wind is also known as _______.",
+    "4": "Pollination takes place by wind in _______.",
+    "5": "Spreading of seeds from one place to another is known as _______.",
+    "6": "Autochory is known as _______.",
+    "7": "The seed is a fertilized _______.",
+    "8": "Paddy grow well in soil _______.",
+    "9": "The soil which contains a bigger sized particle is _______.",
+    "10": "Match the following:\nEarthworm",
+    "11": "Match the following:\nBirds",
+    "12": "Match the following:\nCoconut",
+    "13": "Match the following:\nHoneybee",
+    "14": "Match the following:\nDragonfly"
+  },
+  {
+    "0": {
+      "a": "androecium",
+      "b": "petal",
+      "c": "sepal",
+      "d": "gynoecium"
+    },
+    "1": {
+      "a": "hydrophily",
+      "b": "anemophily",
+      "c": "ornithophily",
+      "d": "entamophily"
+    },
+    "2": {
+      "a": "pollination by animal",
+      "b": "pollination by water",
+      "c": "pollination by wind",
+      "d": "pollination by insects"
+    },
+    "3": {
+      "a": "ornithophily",
+      "b": "entamophily",
+      "c": "anemophily",
+      "d": "hydrophily"
+    },
+    "4": {
+      "a": "hydrilla",
+      "b": "Vallisneria",
+      "c": "lotus",
+      "d": "grass"
+    },
+    "5": {
+      "a": "pollination",
+      "b": "Dispersal of seeds",
+      "c": "vermicompost",
+      "d": "germination"
+    },
+    "6": {
+      "a": "Self dispersal method",
+      "b": "Dispersal by water",
+      "c": "Dispersal by air",
+      "d": "Dispersal by insects"
+    },
+    "7": {
+      "a": "Stem",
+      "b": "Ovule",
+      "c": "Root",
+      "d": "Leaf"
+    },
+    "8": {
+      "a": "Black soil",
+      "b": "Red soil",
+      "c": "Clay",
+      "d": "Sandy soil"
+    },
+    "9": {
+      "a": "Black soil",
+      "b": "Red soil",
+      "c": "Clay",
+      "d": "Sandy soil"
+    },
+    "10": {
+      "a": "Ornithology",
+      "b": "Honey",
+      "c": "Dispersal by water",
+      "d": "Vermi-compost"
+    },
+    "11": {
+      "a": "Ornithology",
+      "b": "Honey",
+      "c": "Dispersal by water",
+      "d": "Vermi-compost"
+    },
+    "12": {
+      "a": "Ornithology",
+      "b": "Honey",
+      "c": "Dispersal by water",
+      "d": "Vermi-compost"
+    },
+    "13": {
+      "a": "Ornithology",
+      "b": "Honey",
+      "c": "Dispersal by water",
+      "d": "Vermi-compost"
+    },
+    "14": {
+      "a": "Ornithology",
+      "b": "Honey",
+      "c": "Destroys the egg and larva of mosquitoes",
+      "d": "Vermi-compost"
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "d",
+    "3": "c",
+    "4": "d",
+    "5": "b",
+    "6": "a",
+    "7": "b",
+    "8": "c",
+    "9": "d",
+    "10": "d",
+    "11": "a",
+    "12": "c",
+    "13": "b",
+    "14": "c"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "0": "Teddy took his pillow as a sign of ______ them.",
+    "1": "Kani and Teddy were in the garden at ______.",
+    "2": "Muthu collected ______ from every house.",
+    "3": "Anbu was ______ old boy.",
+    "4": "Kani took Teddy out for a ______.",
+    "5": "Match the clipped word\nspectacles",
+    "6": "Match the clipped word\nmicrophone",
+    "7": "Match the clipped word\nautomobile",
+    "8": "Match the clipped word\nmathematics",
+    "9": "Match the clipped word\ncentum",
+    "10": "Choose the clipped word\nPhotograph",
+    "11": "Choose the clipped word\nRefrigerate",
+    "12": "Choose the clipped word\nhippopotamus",
+    "13": "Choose the clipped word\ngymnasium",
+    "14": "Choose the clipped word\nlaboratory",
+    "15": "Choose the clipped word\nexamination",
+    "16": "Choose the clipped word\nadvertisement",
+    "17": "Choose the clipped word\nzoological park",
+    "18": "Choose the clipped word\nkilogram",
+    "19": "Choose the clipped word\nsignature"
+  },
+  {
+    "0": {
+      "a": "giving farewell",
+      "b": "welcoming",
+      "c": "scolding",
+      "d": ""
+    },
+    "1": {
+      "a": "11 PM",
+      "b": "10 PM",
+      "c": "12 PM.",
+      "d": ""
+    },
+    "2": {
+      "a": "food",
+      "b": "garbage",
+      "c": "clothes",
+      "d": ""
+    },
+    "3": {
+      "a": "3 year",
+      "b": "4 year",
+      "c": "2 year",
+      "d": ""
+    },
+    "4": {
+      "a": "walk",
+      "b": "Part",
+      "c": "School",
+      "d": ""
+    },
+    "5": {
+      "a": "auto",
+      "b": "maths",
+      "c": "specs",
+      "d": "mic"
+    },
+    "6": {
+      "a": "cent",
+      "b": "maths",
+      "c": "specs",
+      "d": "mic"
+    },
+    "7": {
+      "a": "auto",
+      "b": "maths",
+      "c": "specs",
+      "d": "mic"
+    },
+    "8": {
+      "a": "auto",
+      "b": "maths",
+      "c": "specs",
+      "d": "mic"
+    },
+    "9": {
+      "a": "auto",
+      "b": "maths",
+      "c": "cent",
+      "d": "mic"
+    },
+    "10": {
+      "a": "photograph",
+      "b": "graph",
+      "c": "gram",
+      "d": "photo"
+    },
+    "11": {
+      "a": "gerator",
+      "b": "refri",
+      "c": "fridge",
+      "d": "refrig"
+    },
+    "12": {
+      "a": "hippo",
+      "b": "potamus",
+      "c": "hippopot",
+      "d": "tamus"
+    },
+    "13": {
+      "a": "nasium",
+      "b": "gym",
+      "c": "ymnasium",
+      "d": "gymnasium"
+    },
+    "14": {
+      "a": "borat",
+      "b": "laborat",
+      "c": "boratory",
+      "d": "lab"
+    },
+    "15": {
+      "a": "xamination",
+      "b": "xam",
+      "c": "exam",
+      "d": "examination"
+    },
+    "16": {
+      "a": "advertisement",
+      "b": "adver",
+      "c": "advertise",
+      "d": "ad"
+    },
+    "17": {
+      "a": "zoological",
+      "b": "zoo",
+      "c": "logical",
+      "d": "park"
+    },
+    "18": {
+      "a": "kil",
+      "b": "loram",
+      "c": "kilo",
+      "d": "gram"
+    },
+    "19": {
+      "a": "signat",
+      "b": "nature",
+      "c": "signature",
+      "d": "sign"
+    }
+  },
+  {
+    "0": "b",
+    "1": "c",
+    "2": "b",
+    "3": "c",
+    "4": "a",
+    "5": "c",
+    "6": "d",
+    "7": "a",
+    "8": "b",
+    "9": "c",
+    "10": "d",
+    "11": "c",
+    "12": "a",
+    "13": "b",
+    "14": "d",
+    "15": "c",
+    "16": "d",
+    "17": "b",
+    "18": "c",
+    "19": "d"
+  }
+]

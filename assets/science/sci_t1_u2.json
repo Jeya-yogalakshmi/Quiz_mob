@@ -1,0 +1,184 @@
+[
+  {
+    "0": "Which of the following are the states of matter?",
+    "1": "Which of the following is a solid?",
+    "2": "Jute fibre is obtained from",
+    "3": "__________ soil is suitable for growing cotton.",
+    "4": "The process of making cotton yarn from cotton fibre is __________ .",
+    "5": "Ginning is done to separate _______ from the seeds.",
+    "6": "Synthetic fibre is also called _________ fibre.",
+    "7": "Woolen clothes are manufactured from _______.",
+    "8": "Match the following:\nYarn",
+    "9": "Match the following:\nLint",
+    "10": "Match the following:\nFabrics",
+    "11": "Match the following:\nRayon",
+    "12": "Match the following:\nJute",
+    "13": "Coir is the outer covering of coconut.",
+    "14": "Beans and peas are pulses.",
+    "15": "Table is a household good.",
+    "16": "Sweet corn is not a product of maize.",
+    "17": "Cotton balls contain jute fibre.",
+    "18": "Solid: Table:: _______ : Water.",
+    "19": "Cotton seed: _______ :: Lint: Spinning.",
+    "20": "Coir fibre: _______ :: Cotton fibre: Cotton Plant.",
+    "21": "Black Pepper: Spice:: Sweat corn: _______."
+  },
+  {
+    "0": {
+      "a": "Solid, Liquid, Sugar",
+      "b": "Solid, Liquid, Gas",
+      "c": "Solid, Liquid, Water",
+      "d": "Solid, Liquid, Wood"
+    },
+    "1": {
+      "a": "Water",
+      "b": "Kerosene",
+      "c": "Apple",
+      "d": "Air"
+    },
+    "2": {
+      "a": "root",
+      "b": "leaf",
+      "c": "flower",
+      "d": "stem"
+    },
+    "3": {
+      "a": "Black soil and alluvial soil",
+      "b": "Red soil and alluvial soil",
+      "c": "Black soil and Red soil",
+      "d": "Black soil and clay soil"
+    },
+    "4": {
+      "a": "Cleaning",
+      "b": "Ginning",
+      "c": "Purifying",
+      "d": "Spinning"
+    },
+    "5": {
+      "a": "Raw fibres",
+      "b": "Cotton",
+      "c": "thread",
+      "d": "wool"
+    },
+    "6": {
+      "a": "Artificial cotton",
+      "b": "Raw fibre",
+      "c": "Real fibre",
+      "d": "Artificial fibre"
+    },
+    "7": {
+      "a": "Plant / animals",
+      "b": "animals",
+      "c": "Plant",
+      "d": "Plant / humans"
+    },
+    "8": {
+      "a": "Stem",
+      "b": "Ginning",
+      "c": "Spinning",
+      "d": "Weaving"
+    },
+    "9": {
+      "a": "Stem",
+      "b": "Ginning",
+      "c": "Spinning",
+      "d": "Weaving"
+    },
+    "10": {
+      "a": "Stem",
+      "b": "Ginning",
+      "c": "Spinning",
+      "d": "Weaving"
+    },
+    "11": {
+      "a": "Stem",
+      "b": "Ginning",
+      "c": "Wood pulp",
+      "d": "Weaving"
+    },
+    "12": {
+      "a": "Stem",
+      "b": "Wood pulp",
+      "c": "Spinning",
+      "d": "Weaving"
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "Gas",
+      "b": "Solid",
+      "c": "Liquid",
+      "d": ""
+    },
+    "19": {
+      "a": "Spinning",
+      "b": "Ginning",
+      "c": "Weaving",
+      "d": "Wood pulp"
+    },
+    "20": {
+      "a": "Coconut tree",
+      "b": "Cotton tree",
+      "c": "Banyan tree",
+      "d": "Banana tree"
+    },
+    "21": {
+      "a": "Millet",
+      "b": "Rice",
+      "c": "Pulse",
+      "d": "Cereal"
+    }
+  },
+  {
+    "0": "b",
+    "1": "c",
+    "2": "d",
+    "3": "a",
+    "4": "d",
+    "5": "a",
+    "6": "b",
+    "7": "a",
+    "8": "c",
+    "9": "b",
+    "10": "d",
+    "11": "c",
+    "12": "a",
+    "13": "a",
+    "14": "b",
+    "15": "a",
+    "16": "b",
+    "17": "b",
+    "18": "c",
+    "19": "b",
+    "20": "a",
+    "21": "d"
+  }
+]

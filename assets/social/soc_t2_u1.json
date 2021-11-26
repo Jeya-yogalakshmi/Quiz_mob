@@ -1,0 +1,128 @@
+[
+  {
+    "0": "study the history of humans and places through excavation.",
+    "1": "Small pyramids were made for the ______ in Egypt.",
+    "2": "Indus civilisation is also called as ______ Civilisation.",
+    "3": "Adichanallur is in ______ .",
+    "4": "keezhadi revealed the ______ era.",
+    "5": "Match the Following:\nPyramids",
+    "6": "Match the Following:\nBaked bricks",
+    "7": "Match the Following:\nEarthern pots",
+    "8": "Match the Following:\nSewage canal",
+    "9": "Match the Following:\nArikamedu",
+    "10": "During excavations many artifacts were found.",
+    "11": "Indus Civilisation is located in Harappa.",
+    "12": "Adichanallur is an archaeological site in Coimbatore district of Tamil Nadu.",
+    "13": "Keezhadi excavation revealed that it was not a developed city.",
+    "14": "Roman lamps, glass, stone beads, gems etc. were found in Arikamedu."
+  },
+  {
+    "0": {
+      "a": "Excavationist",
+      "b": "Archaeologists",
+      "c": "Scientists",
+      "d": ""
+    },
+    "1": {
+      "a": "Queen",
+      "b": "King",
+      "c": "Prince",
+      "d": ""
+    },
+    "2": {
+      "a": "Egypt",
+      "b": "American",
+      "c": "Harappan",
+      "d": ""
+    },
+    "3": {
+      "a": "Chennai",
+      "b": "Thoothukudi",
+      "c": "Pondicherry",
+      "d": ""
+    },
+    "4": {
+      "a": "Modern",
+      "b": "Sangam",
+      "c": "Modern",
+      "d": ""
+    },
+    "5": {
+      "a": "Ceramic tools",
+      "b": "Roman lamp",
+      "c": "Egypt",
+      "d": "Indus civilisation"
+    },
+    "6": {
+      "a": "Ceramic tools",
+      "b": "Roman lamp",
+      "c": "Adichanallur",
+      "d": "Indus civilisation"
+    },
+    "7": {
+      "a": "Ceramic tools",
+      "b": "Roman lamp",
+      "c": "Adichanallur",
+      "d": "Indus civilisation"
+    },
+    "8": {
+      "a": "Ceramic tools",
+      "b": "Roman lamp",
+      "c": "Adichanallur",
+      "d": "Indus civilisation"
+    },
+    "9": {
+      "a": "Ceramic tools",
+      "b": "Roman lamp",
+      "c": "Adichanallur",
+      "d": "Indus civilisation"
+    },
+    "10": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "b",
+    "1": "a",
+    "2": "c",
+    "3": "a",
+    "4": "b",
+    "5": "c",
+    "6": "d",
+    "7": "c",
+    "8": "a",
+    "9": "b",
+    "10": "a",
+    "11": "b",
+    "12": "b",
+    "13": "b",
+    "14": "a"
+  }
+]

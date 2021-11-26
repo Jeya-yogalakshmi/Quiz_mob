@@ -1,0 +1,208 @@
+[
+  {
+    "0": "Uthaman was skilled in _______.",
+    "1": "The old man was carrying _______.",
+    "2": "The old man is _______.",
+    "3": "The old man put _______ on the mouth of the gourd.",
+    "4": "Choose the word with same meaning\nFear",
+    "5": "Choose the word with same meaning\nPractise",
+    "6": "Choose the word with same meaning\nSpeed",
+    "7": "Choose the opposite\nOld",
+    "8": "Choose the opposite\nBreak",
+    "9": "Choose the opposite\nFar",
+    "10": "Match the correct rhyming words:\nnature",
+    "11": "Match the correct rhyming words:\nbird",
+    "12": "Match the correct rhyming words:\nface",
+    "13": "I worked hard _______ I got promotion.",
+    "14": "I was late _______ there was a heavy traffic.",
+    "15": "I missed the bus _______ I took a taxi.",
+    "16": "Identify the character/speaker:\n“It’s only a matter of practice”",
+    "17": "Identify the character/speaker:\n“Hmm…. Show us your skills”",
+    "18": "Identify the character/speaker:\n“There is no reason to be angry”",
+    "19": "Identify the character/speaker:\n“Do you think anyone can do what I do?”",
+    "20": "Identify the character/speaker:\n“I don’t doubt your skills”",
+    "21": "The oil seller was a skilled archer.",
+    "22": "Uthaman was carrying oil gourds.",
+    "23": "He placed small coin on the mouth of the gourd.",
+    "24": "The small coin made of gold had a small hole."
+  },
+  {
+    "0": {
+      "a": "archery",
+      "b": "painting",
+      "c": "dance",
+      "d": ""
+    },
+    "1": {
+      "a": "gourds of milk",
+      "b": "gourds of oil",
+      "c": "gourds of water",
+      "d": ""
+    },
+    "2": {
+      "a": "a vegetable vender",
+      "b": "a merchant",
+      "c": "an oil seller",
+      "d": ""
+    },
+    "3": {
+      "a": "a piece of paper",
+      "b": "a small coin",
+      "c": "a small stick",
+      "d": ""
+    },
+    "4": {
+      "a": "fast",
+      "b": "afraid",
+      "c": "train",
+      "d": ""
+    },
+    "5": {
+      "a": "fast",
+      "b": "afraid",
+      "c": "train",
+      "d": ""
+    },
+    "6": {
+      "a": "fast",
+      "b": "afraid",
+      "c": "train",
+      "d": ""
+    },
+    "7": {
+      "a": "fix",
+      "b": "young",
+      "c": "near",
+      "d": ""
+    },
+    "8": {
+      "a": "fix",
+      "b": "young",
+      "c": "near",
+      "d": ""
+    },
+    "9": {
+      "a": "fix",
+      "b": "young",
+      "c": "near",
+      "d": ""
+    },
+    "10": {
+      "a": "herd",
+      "b": "creature",
+      "c": "race",
+      "d": ""
+    },
+    "11": {
+      "a": "herd",
+      "b": "race",
+      "c": "creature",
+      "d": ""
+    },
+    "12": {
+      "a": "race",
+      "b": "herd",
+      "c": "creature",
+      "d": ""
+    },
+    "13": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "The oil seller",
+      "b": "Uthaman",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "The oil seller",
+      "b": "Uthaman",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "The oil seller",
+      "b": "Uthaman",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "The oil seller",
+      "b": "Uthaman",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "The oil seller",
+      "b": "Uthaman",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "23": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "24": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "c",
+    "3": "b",
+    "4": "b",
+    "5": "c",
+    "6": "a",
+    "7": "b",
+    "8": "a",
+    "9": "c",
+    "10": "b",
+    "11": "a",
+    "12": "a",
+    "13": "b",
+    "14": "a",
+    "15": "b",
+    "16": "a",
+    "17": "b",
+    "18": "a",
+    "19": "b",
+    "20": "a",
+    "21": "b",
+    "22": "b",
+    "23": "a",
+    "24": "b"
+  }
+]

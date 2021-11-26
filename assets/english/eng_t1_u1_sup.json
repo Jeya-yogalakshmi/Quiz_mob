@@ -1,0 +1,88 @@
+[
+  {
+    "0": "Amuthan locked the door behind him.",
+    "1": "Nilavan unknowingly started the space shuttle.",
+    "2": "The blue lights seen through the window were aliens.",
+    "3": "They went out through the broken windows.",
+    "4": "The aliens gave a new shuttle to them.",
+    "5": "Name the character or speaker:\n“Are you alright?”",
+    "6": "Name the character or speaker:\n“Wake up. Your ship is ready.”",
+    "7": "Name the character or speaker:\n“Let me try pulling this lever.”",
+    "8": "Name the character or speaker:\n“I am fine. we must wear the spacesuit.”",
+    "9": "Name the character or speaker:\n“Eat these capsules.”"
+  },
+  {
+    "0": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "1": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "2": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "3": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "4": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "5": {
+      "a": "Nilavan",
+      "b": "Alien",
+      "c": "Amuthan",
+      "d": ""
+    },
+    "6": {
+      "a": "Nilavan",
+      "b": "Alien",
+      "c": "Amuthan",
+      "d": ""
+    },
+    "7": {
+      "a": "Nilavan",
+      "b": "Alien",
+      "c": "Amuthan",
+      "d": ""
+    },
+    "8": {
+      "a": "Nilavan",
+      "b": "Alien",
+      "c": "Amuthan",
+      "d": ""
+    },
+    "9": {
+      "a": "Nilavan",
+      "b": "Alien",
+      "c": "Amuthan",
+      "d": ""
+    }
+  },
+  {
+    "0": "b",
+    "1": "b",
+    "2": "b",
+    "3": "a",
+    "4": "b",
+    "5": "a",
+    "6": "b",
+    "7": "c",
+    "8": "c",
+    "9": "b"
+  }
+]

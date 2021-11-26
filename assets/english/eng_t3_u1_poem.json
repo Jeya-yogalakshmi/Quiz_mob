@@ -1,0 +1,112 @@
+[
+  {
+    "0": "Match the rhyming words:\nflow",
+    "1": "Match the rhyming words:\ngrow",
+    "2": "Match the rhyming words:\nseek",
+    "3": "Choose the adverbs:\nHe laughed merrily.",
+    "4": "Choose the adverbs:\nWe will leave today.",
+    "5": "Choose the adverbs:\nSuddenly the old man fainted.",
+    "6": "Choose the adverbs:\nI’m waiting here.",
+    "7": "Choose the adverbs:\nI drink coffee thrice.",
+    "8": "My dog barks _______.",
+    "9": "She won the game _______.",
+    "10": "She coloured the picture _______.",
+    "11": "The lion fought _______.",
+    "12": "A jackal cheated the crow _______."
+  },
+  {
+    "0": {
+      "a": "know",
+      "b": "week",
+      "c": "blow",
+      "d": ""
+    },
+    "1": {
+      "a": "know",
+      "b": "week",
+      "c": "blow",
+      "d": ""
+    },
+    "2": {
+      "a": "know",
+      "b": "week",
+      "c": "blow",
+      "d": ""
+    },
+    "3": {
+      "a": "He",
+      "b": "laughed",
+      "c": "Merrily",
+      "d": ""
+    },
+    "4": {
+      "a": "We",
+      "b": "leave",
+      "c": "will",
+      "d": "Today"
+    },
+    "5": {
+      "a": "Suddenly",
+      "b": "old",
+      "c": "fainted",
+      "d": "man"
+    },
+    "6": {
+      "a": "waiting",
+      "b": "here",
+      "c": "I’m",
+      "d": ""
+    },
+    "7": {
+      "a": "I",
+      "b": "drink",
+      "c": "coffee",
+      "d": "thrice"
+    },
+    "8": {
+      "a": "brilliantly",
+      "b": "loudly",
+      "c": "beautifully",
+      "d": "cunningly"
+    },
+    "9": {
+      "a": "cunningly",
+      "b": "bravely",
+      "c": "loudly",
+      "d": "brilliantly"
+    },
+    "10": {
+      "a": "cunningly",
+      "b": "bravely",
+      "c": "beautifully",
+      "d": "loudly"
+    },
+    "11": {
+      "a": "cunningly",
+      "b": "bravely",
+      "c": "loudly",
+      "d": "brilliantly"
+    },
+    "12": {
+      "a": "cunningly",
+      "b": "bravely",
+      "c": "loudly",
+      "d": "brilliantly"
+    }
+  },
+  {
+    "0": "c",
+    "1": "a",
+    "2": "b",
+    "3": "c",
+    "4": "d",
+    "5": "a",
+    "6": "b",
+    "7": "d",
+    "8": "b",
+    "9": "d",
+    "10": "c",
+    "11": "b",
+    "12": "a"
+  }
+]

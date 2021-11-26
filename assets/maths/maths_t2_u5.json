@@ -1,0 +1,48 @@
+[
+  {
+    "0": "Distance covered in 2 hours at the speed of 20 miles/hour:",
+    "1": "Distance covered in 4 hours at the speed of 65 miles/hour:",
+    "2": "Distance covered in 5 hours at the speed of 48 Km/hour:",
+    "3": "Distance covered in 6 hours at the speed of 80 Km/hour:",
+    "4": "Distance covered in 3 hours at the speed of 42 Km/hour:"
+  },
+  {
+    "0": {
+      "a": "22 miles",
+      "b": "20 miles",
+      "c": "14 miles",
+      "d": "40 miles"
+    },
+    "1": {
+      "a": "260 miles",
+      "b": "360 miles",
+      "c": "69 miles",
+      "d": "61 miles"
+    },
+    "2": {
+      "a": "43 km",
+      "b": "240 km",
+      "c": "48 km",
+      "d": "53 km"
+    },
+    "3": {
+      "a": "86 km",
+      "b": "80 km",
+      "c": "480 km",
+      "d": "486 km"
+    },
+    "4": {
+      "a": "42 km",
+      "b": "26 km",
+      "c": "126 km",
+      "d": "45 km"
+    }
+  },
+  {
+    "0": "d",
+    "1": "a",
+    "2": "b",
+    "3": "c",
+    "4": "c"
+  }
+]

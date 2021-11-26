@@ -1,0 +1,88 @@
+[
+  {
+    "0": "A day in Mars is called ______",
+    "1": "______ is called the red planet.",
+    "2": "Our planet is called the ______.",
+    "3": "We get water by burning ______",
+    "4": "The ______ are trying to terraform Mars.",
+    "5": "The man destroyed ______.",
+    "6": "In the Earth, we get water from ______.",
+    "7": "In Mars ______ Earth days make a year.",
+    "8": "You don’t need ___ and __ in the Earth.",
+    "9": "Fruits, vegetables, and water in Mars are not __"
+  },
+  {
+    "0": {
+      "a": "sol",
+      "b": "astronomer",
+      "c": "Alien",
+      "d": "Mars"
+    },
+    "1": {
+      "a": "Earth",
+      "b": "Mars",
+      "c": "sol",
+      "d": "astronomer"
+    },
+    "2": {
+      "a": "Earth",
+      "b": "astronomer",
+      "c": "Mars",
+      "d": "sol"
+    },
+    "3": {
+      "a": "sol",
+      "b": "Fuels",
+      "c": "Mars",
+      "d": "Earth"
+    },
+    "4": {
+      "a": "astronomer",
+      "b": "Mars",
+      "c": "Earth",
+      "d": "Scientists"
+    },
+    "5": {
+      "a": "The Mars",
+      "b": "The Earth",
+      "c": "The Environment",
+      "d": "The Nature"
+    },
+    "6": {
+      "a": "Lake",
+      "b": "River",
+      "c": "Ocean",
+      "d": "Rain"
+    },
+    "7": {
+      "a": "686",
+      "b": "356",
+      "c": "687",
+      "d": "676"
+    },
+    "8": {
+      "a": "space suit; an Oxygen Cylinder",
+      "b": "space suit; Oxygen",
+      "c": "Food; an Oxygen Cylinder",
+      "d": "space suit; water"
+    },
+    "9": {
+      "a": "Good",
+      "b": "Healthy",
+      "c": "Artificial",
+      "d": "Real"
+    }
+  },
+  {
+    "0": "c",
+    "1": "b",
+    "2": "a",
+    "3": "b",
+    "4": "d",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "a",
+    "9": "d"
+  }
+]

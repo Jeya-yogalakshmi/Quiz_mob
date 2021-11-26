@@ -1,0 +1,128 @@
+[
+  {
+    "0": "Fission is a way of ______ reproduction",
+    "1": "______ is an oviparous animal.",
+    "2": "Endangered animals are protected in ______.",
+    "3": "Mundanthurai sanctuary is located in ______ district.",
+    "4": "The vision of Blue Cross is ______ animal.",
+    "5": "Animals which give birth to young ones directly are named as ______.",
+    "6": "______ of animals leads to endangered condition.",
+    "7": "Gir National Park is famous for ______.",
+    "8": "Blue Cross is an ______ welfare organization.",
+    "9": "Nilgiri Tahr is an ______ species.",
+    "10": "Match the following:\nZygote",
+    "11": "Match the following:\nViviparous",
+    "12": "Match the following:\nEndangered animal",
+    "13": "Match the following:\nMudhumalai",
+    "14": "Match the following:\nFragmentation"
+  },
+  {
+    "0": {
+      "a": "asexual",
+      "b": "sexual",
+      "c": "oviparous",
+      "d": "viviparous"
+    },
+    "1": {
+      "a": "Goat",
+      "b": "Cow",
+      "c": "Deer",
+      "d": "Duck"
+    },
+    "2": {
+      "a": "circus",
+      "b": "sanctuary",
+      "c": "museums",
+      "d": "farm"
+    },
+    "3": {
+      "a": "Tiruvarur",
+      "b": "Thiruvallur",
+      "c": "Thirunelveli",
+      "d": "Thiruppur"
+    },
+    "4": {
+      "a": "saving",
+      "b": "Hunting",
+      "c": "capturing",
+      "d": "neglecting"
+    },
+    "5": {
+      "a": "Endangered animal",
+      "b": "Viviparous",
+      "c": "Mammals",
+      "d": "oviparous"
+    },
+    "6": {
+      "a": "saving",
+      "b": "Hunting",
+      "c": "capturing",
+      "d": "neglecting"
+    },
+    "7": {
+      "a": "Elephants",
+      "b": "Lions",
+      "c": "Tigers",
+      "d": "Asiatic Lions"
+    },
+    "8": {
+      "a": "Animal",
+      "b": "Human",
+      "c": "Insects",
+      "d": "Reptiles"
+    },
+    "9": {
+      "a": "Endangered",
+      "b": "protected",
+      "c": "safe",
+      "d": "unthreatened"
+    },
+    "10": {
+      "a": "Cat",
+      "b": "Asexual Reproduction",
+      "c": "Fertilised Egg",
+      "d": "Elephant"
+    },
+    "11": {
+      "a": "Cat",
+      "b": "Asexual Reproduction",
+      "c": "Fertilised Egg",
+      "d": "Elephant"
+    },
+    "12": {
+      "a": "Cat",
+      "b": "Rhinoceros",
+      "c": "Fertilised Egg",
+      "d": "Elephant"
+    },
+    "13": {
+      "a": "Cat",
+      "b": "Asexual Reproduction",
+      "c": "Fertilised Egg",
+      "d": "Elephant"
+    },
+    "14": {
+      "a": "Cat",
+      "b": "Asexual Reproduction",
+      "c": "Fertilised Egg",
+      "d": "Elephant"
+    }
+  },
+  {
+    "0": "a",
+    "1": "d",
+    "2": "b",
+    "3": "c",
+    "4": "a",
+    "5": "c",
+    "6": "b",
+    "7": "d",
+    "8": "a",
+    "9": "a",
+    "10": "c",
+    "11": "a",
+    "12": "b",
+    "13": "d",
+    "14": "b"
+  }
+]

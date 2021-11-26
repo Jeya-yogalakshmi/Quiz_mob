@@ -1,0 +1,96 @@
+[
+  {
+    "0": "The distance between the earth and the sun is _________ .",
+    "1": "_________ are caused due to revolution of the Earth.",
+    "2": "The continent _________ is covered by ice",
+    "3": "The biggest continent is _________ .",
+    "4": "_________ is described as Red Planet.",
+    "5": "_________ Percentage of our earth is covered by salt water.",
+    "6": "Match the Following:\nSmallest Continent",
+    "7": "Match the Following:\nBlue Planet",
+    "8": "Match the Following:\nNeptune",
+    "9": "Match the Following:\nSeasons",
+    "10": "Match the Following:\nDay and Night"
+  },
+  {
+    "0": {
+      "a": "Nearly 150 Million Km",
+      "b": "Nearly 150 Km",
+      "c": "Nearly 155 Million Km",
+      "d": "Nearly 160 Million Km"
+    },
+    "1": {
+      "a": "Climate",
+      "b": "Weather",
+      "c": "Seasons",
+      "d": "Pollution"
+    },
+    "2": {
+      "a": "Africa",
+      "b": "Antarctica",
+      "c": "Europe",
+      "d": "Asia"
+    },
+    "3": {
+      "a": "Africa",
+      "b": "Antarctica",
+      "c": "Europe",
+      "d": "Asia"
+    },
+    "4": {
+      "a": "Jupiter",
+      "b": "Mars",
+      "c": "Earth",
+      "d": "Venus"
+    },
+    "5": {
+      "a": "61 %",
+      "b": "70 %",
+      "c": "71 %",
+      "d": "72 %"
+    },
+    "6": {
+      "a": "Earth's rotation",
+      "b": "Earth's revolution",
+      "c": "Earth",
+      "d": "Australia"
+    },
+    "7": {
+      "a": "Earth's rotation",
+      "b": "Earth's revolution",
+      "c": "Earth",
+      "d": "Australia"
+    },
+    "8": {
+      "a": "Earth's rotation",
+      "b": "Earth's revolution",
+      "c": "Earth",
+      "d": "Farthest planet"
+    },
+    "9": {
+      "a": "Earth's rotation",
+      "b": "Earth's revolution",
+      "c": "Earth",
+      "d": "Australia"
+    },
+    "10": {
+      "a": "Earth's rotation",
+      "b": "Earth's revolution",
+      "c": "Earth",
+      "d": "Australia"
+    }
+  },
+  {
+    "0": "a",
+    "1": "c",
+    "2": "b",
+    "3": "d",
+    "4": "b",
+    "5": "c",
+    "6": "d",
+    "7": "c",
+    "8": "d",
+    "9": "b",
+    "10": "a"
+  }
+]

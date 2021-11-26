@@ -1,0 +1,24 @@
+[
+  {
+    "0": "Can you spot the duplicate?\nDEF, EFD, FDE, EFD, FED, DFE, EDF",
+    "1": "Can you find the mistake?\nABC, ACB, BCA, BAA, CAB, CBA"
+  },
+  {
+    "0": {
+      "a": "FDE",
+      "b": "EFD",
+      "c": "DEF",
+      "d": "DFE"
+    },
+    "1": {
+      "a": "BAA",
+      "b": "ACB",
+      "c": "ABC",
+      "d": "CAB"
+    }
+  },
+  {
+    "0": "b",
+    "1": "a"
+  }
+]

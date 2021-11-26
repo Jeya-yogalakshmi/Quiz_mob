@@ -1,0 +1,200 @@
+[
+  {
+    "0": "What is the length of the alimentary canal?",
+    "1": "Which organ is involved in respiration?",
+    "2": "How many kidneys do we have?",
+    "3": "Functional unit of brain is",
+    "4": "Blood is bumped by",
+    "5": "A group of organs together make up an _______ system.",
+    "6": "The process by which the body removes waste is called _______.",
+    "7": "The number of chambers in human heart is _______.",
+    "8": "The functional unit of kidney is _______.",
+    "9": "The human nervous system is divided into _______ parts.",
+    "10": "The circulatory system is made up of the heart, blood, and blood vessels.",
+    "11": "Important function of the heart is to transport blood with nutrients, oxygen, waste, and hormones.",
+    "12": "The brain is protected by the rib cage.",
+    "13": "The functional unit of kidney is neuron.",
+    "14": "Choose the odd one",
+    "15": "Choose the odd one",
+    "16": "Choose the odd one",
+    "17": "Choose the odd one",
+    "18": "Choose the odd one",
+    "19": "Match the following:\nDigestive System",
+    "20": "Match the following:\nRespiratory System",
+    "21": "Match the following:\nCirculatory System",
+    "22": "Match the following:\nExcretory System",
+    "23": "Match the following:\nNervous System"
+  },
+  {
+    "0": {
+      "a": "9-11 m",
+      "b": "3-5 m",
+      "c": "5-6 m",
+      "d": "6-9 m"
+    },
+    "1": {
+      "a": "Heart",
+      "b": "Lungs",
+      "c": "Kidney",
+      "d": "Brain"
+    },
+    "2": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "3": {
+      "a": "Brain stem",
+      "b": "Nephron",
+      "c": "Neuron",
+      "d": "Nerves"
+    },
+    "4": {
+      "a": "Heart",
+      "b": "Kidneys",
+      "c": "Lungs",
+      "d": "Bones"
+    },
+    "5": {
+      "a": "respiratory system",
+      "b": "organ system",
+      "c": "nervous system",
+      "d": "urinary system"
+    },
+    "6": {
+      "a": "Kidney",
+      "b": "Nephron",
+      "c": "Excretion",
+      "d": ""
+    },
+    "7": {
+      "a": "Four",
+      "b": "Two",
+      "c": "Three",
+      "d": "One"
+    },
+    "8": {
+      "a": "Excretion",
+      "b": "Nephron",
+      "c": "Nerves",
+      "d": "Neuron"
+    },
+    "9": {
+      "a": "Four",
+      "b": "One",
+      "c": "Three",
+      "d": "Two"
+    },
+    "10": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "Mouth",
+      "b": "Buccal Cavity",
+      "c": "Pharynx",
+      "d": "Lungs"
+    },
+    "15": {
+      "a": "Pharynx",
+      "b": "Nasal Cavity",
+      "c": "Stomach",
+      "d": "Nostrils"
+    },
+    "16": {
+      "a": "Kidney",
+      "b": "Esophagus",
+      "c": "Mouth",
+      "d": "Stomach"
+    },
+    "17": {
+      "a": "Hear",
+      "b": "Taste",
+      "c": "Think",
+      "d": "Smell"
+    },
+    "18": {
+      "a": "Medulla Oblongata",
+      "b": "Nephron",
+      "c": "Cerebrum",
+      "d": "Cerebellum"
+    },
+    "19": {
+      "a": "Lungs",
+      "b": "Alimentary Canal",
+      "c": "Brain",
+      "d": "Kidney"
+    },
+    "20": {
+      "a": "Heart",
+      "b": "Brain",
+      "c": "Lungs",
+      "d": "Kidney"
+    },
+    "21": {
+      "a": "Heart",
+      "b": "Brain",
+      "c": "Lungs",
+      "d": "Kidney"
+    },
+    "22": {
+      "a": "Lungs",
+      "b": "Heart",
+      "c": "Brain",
+      "d": "Kidney"
+    },
+    "23": {
+      "a": "Kidney",
+      "b": "Brain",
+      "c": "Lungs",
+      "d": "Heart"
+    }
+  },
+  {
+    "0": "d",
+    "1": "b",
+    "2": "b",
+    "3": "c",
+    "4": "a",
+    "5": "b",
+    "6": "c",
+    "7": "a",
+    "8": "b",
+    "9": "d",
+    "10": "a",
+    "11": "a",
+    "12": "b",
+    "13": "b",
+    "14": "d",
+    "15": "c",
+    "16": "a",
+    "17": "c",
+    "18": "b",
+    "19": "b",
+    "20": "c",
+    "21": "a",
+    "22": "d",
+    "23": "b"
+  }
+]

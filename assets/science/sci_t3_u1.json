@@ -1,0 +1,208 @@
+[
+  {
+    "0": "Which of the following produces more milk?",
+    "1": "Poultry farming is rearing and breeding of _______.",
+    "2": "_______ is the best fertilizer.",
+    "3": "_______ is more profitable than Agriculture.",
+    "4": "The poultry farm is famous in _______ district in Tamil Nadu state.",
+    "5": "There are ________ breeds of cattle in India",
+    "6": "The milk of_______ has more nutrients than cow’s milk.",
+    "7": "_______ contains high amount of fiber.",
+    "8": "Droppings of poultry birds are used as.",
+    "9": "Vermicomposting is a method of transforming _______ into a nutrient rich fertilizer.",
+    "10": "Match the following:\nSurti",
+    "11": "Match the following:\nWhite revolution",
+    "12": "Match the following:\nLayers",
+    "13": "Match the following:\nGreen manure",
+    "14": "Match the following:\nCattle",
+    "15": "Farming is done on a commercial scale.",
+    "16": "Vermicompost caribe used to dean sewage.",
+    "17": "Leguminous plants fix nitrogen in the leaves of the plants.",
+    "18": "Namakkal district is famous for dairy farms.",
+    "19": "Murrah is a buffalo breed.",
+    "20": "Green revolution : _____.",
+    "21": "Blue revolution : _____.",
+    "22": "Silver revolution : _____.",
+    "23": "Gold revolution : _____.",
+    "24": "Yellow revolution : _____."
+  },
+  {
+    "0": {
+      "a": "goat",
+      "b": "yak",
+      "c": "cow",
+      "d": "buffalo"
+    },
+    "1": {
+      "a": "avian species",
+      "b": "chickens",
+      "c": "cows",
+      "d": "animal"
+    },
+    "2": {
+      "a": "Fruits",
+      "b": "Urea",
+      "c": "Synthetic Fertiliser",
+      "d": "Vermicompost"
+    },
+    "3": {
+      "a": "Farming",
+      "b": "Cultivation",
+      "c": "Dairy farm",
+      "d": "Poultry"
+    },
+    "4": {
+      "a": "Thanjavur",
+      "b": "Namakkal",
+      "c": "Salem",
+      "d": "Ariyalur"
+    },
+    "5": {
+      "a": "36",
+      "b": "26",
+      "c": "24",
+      "d": "16"
+    },
+    "6": {
+      "a": "goat",
+      "b": "yak",
+      "c": "buffalo",
+      "d": "cow"
+    },
+    "7": {
+      "a": "Roughage",
+      "b": "Organic waste",
+      "c": "Manure",
+      "d": "Green manure"
+    },
+    "8": {
+      "a": "Roughage",
+      "b": "Organic waste",
+      "c": "Manure",
+      "d": "Green manure"
+    },
+    "9": {
+      "a": "Roughage",
+      "b": "Organic waste",
+      "c": "Manure",
+      "d": "Green manure"
+    },
+    "10": {
+      "a": "Transportation",
+      "b": "Egg",
+      "c": "Buffalo",
+      "d": "Leguminous plants"
+    },
+    "11": {
+      "a": "Transportation",
+      "b": "Egg",
+      "c": "Milk",
+      "d": "Leguminous plants"
+    },
+    "12": {
+      "a": "Transportation",
+      "b": "Egg",
+      "c": "Buffalo",
+      "d": "Leguminous plants"
+    },
+    "13": {
+      "a": "Transportation",
+      "b": "Egg",
+      "c": "Buffalo",
+      "d": "Leguminous plants"
+    },
+    "14": {
+      "a": "Transportation",
+      "b": "Egg",
+      "c": "Buffalo",
+      "d": "Leguminous plants"
+    },
+    "15": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "Egg",
+      "b": "Oilseeds",
+      "c": "Food grains",
+      "d": "Honey"
+    },
+    "21": {
+      "a": "Egg",
+      "b": "Oilseeds",
+      "c": "Food grains",
+      "d": "Fish"
+    },
+    "22": {
+      "a": "Egg",
+      "b": "Oilseeds",
+      "c": "Food grains",
+      "d": "Honey"
+    },
+    "23": {
+      "a": "Egg",
+      "b": "Oilseeds",
+      "c": "Food grains",
+      "d": "Honey"
+    },
+    "24": {
+      "a": "Egg",
+      "b": "Oilseeds",
+      "c": "Food grains",
+      "d": "Honey"
+    }
+  },
+  {
+    "0": "c",
+    "1": "a",
+    "2": "d",
+    "3": "a",
+    "4": "b",
+    "5": "b",
+    "6": "c",
+    "7": "a",
+    "8": "c",
+    "9": "b",
+    "10": "c",
+    "11": "c",
+    "12": "b",
+    "13": "d",
+    "14": "a",
+    "15": "a",
+    "16": "a",
+    "17": "b",
+    "18": "b",
+    "19": "a",
+    "20": "c",
+    "21": "d",
+    "22": "a",
+    "23": "d",
+    "24": "b"
+  }
+]

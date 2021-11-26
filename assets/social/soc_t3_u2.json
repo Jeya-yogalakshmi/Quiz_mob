@@ -1,0 +1,128 @@
+[
+  {
+    "0": "_______ is the cultivation of crops.",
+    "1": "A _______ is a person who is engaged in agriculture.",
+    "2": "_______ farming refers to the raising of animals along with the crops.",
+    "3": "_______ monitors the level and nature of groundwater.",
+    "4": "_______ is the largest cotton producing district in Tamil Nadu.",
+    "5": "Match the following:\nPlantation Farming",
+    "6": "Match the following:\nMixed Farming",
+    "7": "Match the following:\nCommercial Farming",
+    "8": "Match the following:\nWell Irrigation",
+    "9": "Match the following:\nSubsistence Farming",
+    "10": "Rice is the leading food crop in Tamil Nadu.",
+    "11": "Tamil Nadu has two soil types.",
+    "12": "Drip irrigation is a type of micro-irrigation system.",
+    "13": "Jackfruit is an example of plantation crop.",
+    "14": "Mango is the leading fruit crop of Tamil Nadu."
+  },
+  {
+    "0": {
+      "a": "Agriculture",
+      "b": "Excavation",
+      "c": "Irrigation",
+      "d": ""
+    },
+    "1": {
+      "a": "teacher",
+      "b": "doctor",
+      "c": "farmer",
+      "d": ""
+    },
+    "2": {
+      "a": "Commercial",
+      "b": "Subsistence",
+      "c": "Mixed",
+      "d": ""
+    },
+    "3": {
+      "a": "Sewage Water Board",
+      "b": "Central Ground Water Board",
+      "c": "Metro Water Board",
+      "d": ""
+    },
+    "4": {
+      "a": "Chennai",
+      "b": "Coimbatore",
+      "c": "Cuddalore",
+      "d": ""
+    },
+    "5": {
+      "a": "for family consumption",
+      "b": "Single cash crop",
+      "c": "Rearing of animals",
+      "d": "Oldest method"
+    },
+    "6": {
+      "a": "for family consumption",
+      "b": "Single cash crop",
+      "c": "Rearing of animals",
+      "d": "Oldest method"
+    },
+    "7": {
+      "a": "for family consumption",
+      "b": "Single cash crop",
+      "c": "Rearing of animals",
+      "d": "for trade"
+    },
+    "8": {
+      "a": "for family consumption",
+      "b": "Single cash crop",
+      "c": "Rearing of animals",
+      "d": "Oldest method"
+    },
+    "9": {
+      "a": "for family consumption",
+      "b": "Single cash crop",
+      "c": "Rearing of animals",
+      "d": "Oldest method"
+    },
+    "10": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "c",
+    "2": "c",
+    "3": "b",
+    "4": "b",
+    "5": "b",
+    "6": "c",
+    "7": "d",
+    "8": "d",
+    "9": "a",
+    "10": "a",
+    "11": "b",
+    "12": "a",
+    "13": "b",
+    "14": "a"
+  }
+]

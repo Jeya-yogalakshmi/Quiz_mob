@@ -1,0 +1,128 @@
+[
+  {
+    "0": "_______ fort was built by Kings of Vijayanagar.",
+    "1": "Thirumalai Nayakkar Palace is situated in _______.",
+    "2": "_______ Mahal is considered as one of the oldest historical libraries in India.",
+    "3": "Padmanabhapuram Palace is in _______.",
+    "4": "_______ fort is locally called Danish fort.",
+    "5": "Match the following:\nGingee Fort",
+    "6": "Match the following:\nDanish Fort",
+    "7": "Match the following:\nTamukkam Palace",
+    "8": "Match the following:\nThirumayam Fort",
+    "9": "Match the following:\nFort St.George",
+    "10": "Tamil Nadu has been ruled by many Rulers. Especially by the Chera, Chola, Pandya, and Pallava rulers.",
+    "11": "Vellore Fort has five mahals.",
+    "12": "Dindigul Fort was built by the Nayaks of Madurai.",
+    "13": "Oomayan Kottai is the other name for Gingee fort.",
+    "14": "The Padmanabhapuram Palace was built by the ruler of Travancore."
+  },
+  {
+    "0": {
+      "a": "Vellore",
+      "b": "Gingee",
+      "c": "Udayagiri",
+      "d": ""
+    },
+    "1": {
+      "a": "Salem",
+      "b": "Madurai",
+      "c": "Thirumalai",
+      "d": ""
+    },
+    "2": {
+      "a": "Lakshmi",
+      "b": "Durga",
+      "c": "Saraswathi",
+      "d": ""
+    },
+    "3": {
+      "a": "Ooty",
+      "b": "Kanyakumari",
+      "c": "Chennai",
+      "d": ""
+    },
+    "4": {
+      "a": "Dindigul",
+      "b": "Gingee",
+      "c": "Tharangambadi",
+      "d": ""
+    },
+    "5": {
+      "a": "Chennai",
+      "b": "Pudukottai",
+      "c": "Villupuram",
+      "d": "Madurai"
+    },
+    "6": {
+      "a": "Chennai",
+      "b": "Pudukottai",
+      "c": "Villupuram",
+      "d": "Tharangambadi"
+    },
+    "7": {
+      "a": "Chennai",
+      "b": "Pudukottai",
+      "c": "Villupuram",
+      "d": "Madurai"
+    },
+    "8": {
+      "a": "Chennai",
+      "b": "Pudukottai",
+      "c": "Villupuram",
+      "d": "Madurai"
+    },
+    "9": {
+      "a": "Chennai",
+      "b": "Pudukottai",
+      "c": "Villupuram",
+      "d": "Madurai"
+    },
+    "10": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "a",
+    "1": "b",
+    "2": "c",
+    "3": "b",
+    "4": "c",
+    "5": "c",
+    "6": "d",
+    "7": "d",
+    "8": "b",
+    "9": "a",
+    "10": "a",
+    "11": "a",
+    "12": "a",
+    "13": "b",
+    "14": "a"
+  }
+]

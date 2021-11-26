@@ -1,0 +1,128 @@
+[
+  {
+    "0": "Which of the following microorganisms causes waterborne diseases?",
+    "1": "Water is present in huge quantities as vapor and clouds in the",
+    "2": "________ water is free from suspended impurities.",
+    "3": "________ of water is in oceans and seas.",
+    "4": "________ is an artificial process of converting seawater into freshwater.",
+    "5": "The accumulated underground water comes out in the form of ________.",
+    "6": "The process of changing water into water vapor by the heat of the Sun is called ________.",
+    "7": "Rainwater forms streams and ________ which join together to form rivers.",
+    "8": "The process of collecting and storing rainwater is called ________.",
+    "9": "Cholera is caused by ________.",
+    "10": "Match the following:\nLeakage of oil",
+    "11": "Match the following:\nReservoir",
+    "12": "Match the following:\nDistillation",
+    "13": "Match the following:\nRainwater harvesting",
+    "14": "Match the following:\nSwine flu"
+  },
+  {
+    "0": {
+      "a": "Protozoa",
+      "b": "Bacteria",
+      "c": "Virus",
+      "d": "All"
+    },
+    "1": {
+      "a": "atmosphere",
+      "b": "sky",
+      "c": "rain",
+      "d": "earth"
+    },
+    "2": {
+      "a": "Well",
+      "b": "Underground",
+      "c": "Sea",
+      "d": "River"
+    },
+    "3": {
+      "a": "77%",
+      "b": "87%",
+      "c": "97%",
+      "d": "47%"
+    },
+    "4": {
+      "a": "Decantation",
+      "b": "Desalination",
+      "c": "Distillation",
+      "d": "Reverse Osmosis"
+    },
+    "5": {
+      "a": "Winter",
+      "b": "Autumn",
+      "c": "Summer",
+      "d": "Spring"
+    },
+    "6": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "precipitation",
+      "d": "sublimation"
+    },
+    "7": {
+      "a": "Winters",
+      "b": "Autumns",
+      "c": "Springs",
+      "d": "Summers"
+    },
+    "8": {
+      "a": "Evaporation",
+      "b": "Rainwater harvesting",
+      "c": "precipitation",
+      "d": "sublimation"
+    },
+    "9": {
+      "a": "Bacteria (Plasmodium falciparum)",
+      "b": "Bacteria (Vibrio Cholerae)",
+      "c": "Bacteria (Mycobacterium tuberculosis)",
+      "d": "Bacteria (Yersinia pestis)"
+    },
+    "10": {
+      "a": "Plant growth",
+      "b": "Dam",
+      "c": "Pollute marine organisms",
+      "d": "Desalination Process"
+    },
+    "11": {
+      "a": "Plant growth",
+      "b": "Dam",
+      "c": "Influenza virus",
+      "d": "Desalination Process"
+    },
+    "12": {
+      "a": "Plant growth",
+      "b": "Dam",
+      "c": "Influenza virus",
+      "d": "Desalination Process"
+    },
+    "13": {
+      "a": "Plant growth",
+      "b": "Dam",
+      "c": "Influenza virus",
+      "d": "Desalination Process"
+    },
+    "14": {
+      "a": "Plant growth",
+      "b": "Dam",
+      "c": "Influenza virus",
+      "d": "Desalination Process"
+    }
+  },
+  {
+    "0": "d",
+    "1": "a",
+    "2": "b",
+    "3": "c",
+    "4": "b",
+    "5": "d",
+    "6": "a",
+    "7": "c",
+    "8": "b",
+    "9": "b",
+    "10": "c",
+    "11": "b",
+    "12": "d",
+    "13": "a",
+    "14": "c"
+  }
+]

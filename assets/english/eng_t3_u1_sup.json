@@ -1,0 +1,128 @@
+[
+  {
+    "0": "All the animals called the sparrow _______.",
+    "1": "The brown sparrow laid _______ eggs.",
+    "2": "_______ lies stretching in the river.",
+    "3": "Sparrow tied the elephant and the crocodile with a _______.",
+    "4": "The sparrow solves the problem with her _______.",
+    "5": "These clothes are _______ expensive.",
+    "6": "Donald ran _______ kilometers.",
+    "7": "Match the rhyming words:\nsoft",
+    "8": "Match the rhyming words:\nblow",
+    "9": "Match the rhyming words:\ngrow",
+    "10": "Match the rhyming words:\nseek",
+    "11": "Choose the adverbs:\nThe boy speaks loudly.",
+    "12": "Choose the adverbs:\nShe speaks English fluently.",
+    "13": "Choose the adverbs:\nOur mum spoke to us angrily.",
+    "14": "Choose the adverbs:\nThe painter paints wonderfully."
+  },
+  {
+    "0": {
+      "a": "princess",
+      "b": "madam",
+      "c": "queen",
+      "d": ""
+    },
+    "1": {
+      "a": "three",
+      "b": "six",
+      "c": "four",
+      "d": ""
+    },
+    "2": {
+      "a": "snake",
+      "b": "tortoise",
+      "c": "crocodile",
+      "d": ""
+    },
+    "3": {
+      "a": "cloth",
+      "b": "rope",
+      "c": "creeper",
+      "d": ""
+    },
+    "4": {
+      "a": "intelligence",
+      "b": "braveness",
+      "c": "cunningness",
+      "d": ""
+    },
+    "5": {
+      "a": "to",
+      "b": "too",
+      "c": "two",
+      "d": ""
+    },
+    "6": {
+      "a": "to",
+      "b": "too",
+      "c": "two",
+      "d": ""
+    },
+    "7": {
+      "a": "week",
+      "b": "flow",
+      "c": "hot",
+      "d": "know"
+    },
+    "8": {
+      "a": "week",
+      "b": "flow",
+      "c": "hot",
+      "d": "know"
+    },
+    "9": {
+      "a": "week",
+      "b": "flow",
+      "c": "hot",
+      "d": "know"
+    },
+    "10": {
+      "a": "week",
+      "b": "flow",
+      "c": "hot",
+      "d": "know"
+    },
+    "11": {
+      "a": "The",
+      "b": "loudly",
+      "c": "speaks",
+      "d": "boy"
+    },
+    "12": {
+      "a": "She",
+      "b": "English",
+      "c": "speaks",
+      "d": "fluently"
+    },
+    "13": {
+      "a": "angrily",
+      "b": "Our",
+      "c": "spoke",
+      "d": "mum"
+    },
+    "14": {
+      "a": "The",
+      "b": "paints",
+      "c": "wonderfully",
+      "d": "painter"
+    }
+  },
+  {
+    "0": "b",
+    "1": "a",
+    "2": "c",
+    "3": "c",
+    "4": "a",
+    "5": "b",
+    "6": "c",
+    "7": "c",
+    "8": "b",
+    "9": "d",
+    "10": "a",
+    "11": "b",
+    "12": "d",
+    "13": "a",
+    "14": "c"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "0": "Hydrosphere is the total amount of _______ present on earth.",
+    "1": "Select the odd one out.",
+    "2": "Water body that is surrounded by land on all sides is called _______.",
+    "3": "Evaporation is the _______ stage of the water cycle.",
+    "4": "Water body that is partially enclosed by land and has wide opening to the sea is called _______.",
+    "5": "Match the Following:\nPrecipitation",
+    "6": "Match the Following:\nA lagoon",
+    "7": "Match the Following:\nJoining between Indian Ocean and Bay of Bengal",
+    "8": "Match the Following:\nInland salt water lake",
+    "9": "Match the Following:\nCondensation",
+    "10": "About 97.5% of water on the earth is salt water.",
+    "11": "Water is not necessary for our basic needs.",
+    "12": "Water in the sea is sweet.",
+    "13": "We should keep the tap open throughout while washing utensils.",
+    "14": "We should save water."
+  },
+  {
+    "0": {
+      "a": "Plants",
+      "b": "Land",
+      "c": "Water",
+      "d": "Air"
+    },
+    "1": {
+      "a": "Pacific",
+      "b": "Arabian",
+      "c": "Arctic",
+      "d": "Indian"
+    },
+    "2": {
+      "a": "River",
+      "b": "Lake",
+      "c": "Bay",
+      "d": "Gulf"
+    },
+    "3": {
+      "a": "First",
+      "b": "Second",
+      "c": "Third",
+      "d": "Fourth"
+    },
+    "4": {
+      "a": "Pond",
+      "b": "Sea",
+      "c": "Strait",
+      "d": "Bay"
+    },
+    "5": {
+      "a": "Chilika in Orissa",
+      "b": "Palk strait",
+      "c": "Rain",
+      "d": "Formation of cloud"
+    },
+    "6": {
+      "a": "Chilika in Orissa",
+      "b": "Palk strait",
+      "c": "Sambhar lake",
+      "d": "Formation of cloud"
+    },
+    "7": {
+      "a": "Chilika in Orissa",
+      "b": "Palk strait",
+      "c": "Sambhar lake",
+      "d": "Formation of cloud"
+    },
+    "8": {
+      "a": "Chilika in Orissa",
+      "b": "Palk strait",
+      "c": "Sambhar lake",
+      "d": "Formation of cloud"
+    },
+    "9": {
+      "a": "Chilika in Orissa",
+      "b": "Palk strait",
+      "c": "Sambhar lake",
+      "d": "Formation of cloud"
+    },
+    "10": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "c",
+    "1": "b",
+    "2": "b",
+    "3": "a",
+    "4": "d",
+    "5": "c",
+    "6": "b",
+    "7": "a",
+    "8": "c",
+    "9": "d",
+    "10": "a",
+    "11": "b",
+    "12": "b",
+    "13": "b",
+    "14": "a"
+  }
+]

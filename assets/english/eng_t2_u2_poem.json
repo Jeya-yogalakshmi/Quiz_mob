@@ -1,0 +1,208 @@
+[
+  {
+    "0": "Choose the correct rhyming pair:\nTall",
+    "1": "Choose the correct rhyming pair:\nLight",
+    "2": "Choose the correct rhyming pair:\nMight",
+    "3": "He has a pencil _____ a paper.",
+    "4": "He has a ball _____ not a bat.",
+    "5": "Do you want apple______ pear? ",
+    "6": "Match the following:\nThe cat was hungry",
+    "7": "Match the following:\nI was on leave",
+    "8": "Match the following:\nHe was afraid of the dog",
+    "9": "Match the following:\nShe went home early",
+    "10": "He ate two chocolates _____ he got cough.",
+    "11": "The rat ran fast ______a cat was chasing it.",
+    "12": "He missed his purse _____ he was sad.",
+    "13": "Tom left the class ______ he was sick.",
+    "14": "He lost the key ______ he couldn’t open his room.",
+    "15": "What does the red signal mean?",
+    "16": "What does the green signal mean?",
+    "17": "When do we cross the zebra crossing?",
+    "18": "Why do we wear helmets?",
+    "19": "Can we use cellphone while driving?",
+    "20": "She sings songs _____ she wants to become a singer.",
+    "21": "It is very cold outside, _____ I brought you a sweater.",
+    "22": "It is raining, _____ I take the umbrella.",
+    "23": "He sold his cell phone ______ it was an old model.",
+    "24": "He scored low marks _____ he did not study well."
+  },
+  {
+    "0": {
+      "a": "Might",
+      "b": "Fight",
+      "c": "Light",
+      "d": "All"
+    },
+    "1": {
+      "a": "Tall",
+      "b": "Flight",
+      "c": "All",
+      "d": "Lighter"
+    },
+    "2": {
+      "a": "Eat",
+      "b": "Same",
+      "c": "Fight",
+      "d": "All"
+    },
+    "3": {
+      "a": "and",
+      "b": "or",
+      "c": "but",
+      "d": ""
+    },
+    "4": {
+      "a": "and",
+      "b": "or",
+      "c": "but",
+      "d": ""
+    },
+    "5": {
+      "a": "and",
+      "b": "or",
+      "c": "but",
+      "d": ""
+    },
+    "6": {
+      "a": "because I had a headache",
+      "b": "so it ate a fish.",
+      "c": "because she had to attend a function",
+      "d": "so he ran away"
+    },
+    "7": {
+      "a": "so it ate a fish.",
+      "b": "so he ran away",
+      "c": "because she had to attend a function",
+      "d": "because I had a headache"
+    },
+    "8": {
+      "a": "so he ran away",
+      "b": "so it ate a fish.",
+      "c": "because she had to attend a function",
+      "d": "because I had a headache"
+    },
+    "9": {
+      "a": "so it ate a fish.",
+      "b": "so he ran away",
+      "c": "because she had to attend a function",
+      "d": "because I had a headache"
+    },
+    "10": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "11": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "12": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "13": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "14": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "15": {
+      "a": "to stop",
+      "b": "to go",
+      "c": "",
+      "d": ""
+    },
+    "16": {
+      "a": "to wait",
+      "b": "to go",
+      "c": "",
+      "d": ""
+    },
+    "17": {
+      "a": "when vehicles are stopped",
+      "b": "when vehicles are going",
+      "c": "",
+      "d": ""
+    },
+    "18": {
+      "a": "to get rid of sunlight.",
+      "b": "to avoid head injury",
+      "c": "",
+      "d": ""
+    },
+    "19": {
+      "a": "Yes",
+      "b": "No",
+      "c": "",
+      "d": ""
+    },
+    "20": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "23": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    },
+    "24": {
+      "a": "because",
+      "b": "so",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "d",
+    "1": "b",
+    "2": "c",
+    "3": "a",
+    "4": "c",
+    "5": "b",
+    "6": "b",
+    "7": "d",
+    "8": "a",
+    "9": "c",
+    "10": "b",
+    "11": "a",
+    "12": "b",
+    "13": "a",
+    "14": "b",
+    "15": "a",
+    "16": "b",
+    "17": "a",
+    "18": "b",
+    "19": "b",
+    "20": "a",
+    "21": "b",
+    "22": "b",
+    "23": "a",
+    "24": "a"
+  }
+]

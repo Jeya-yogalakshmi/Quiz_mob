@@ -1,0 +1,193 @@
+[
+  {
+    "0": "When diesel is burnt chemical energy is converted into _______.",
+    "1": "Running water possesses _______.",
+    "2": "Unit of energy is _______.",
+    "3": "Which one of the following requires wind energy?",
+    "4": "Cow dung possesses _______ .",
+    "5": "Iron box: _______.",
+    "6": "Electric Iron box: _______.",
+    "7": "Electric fan: _______.",
+    "8": "Speaker: _______.",
+    "9": "Generator: _______.",
+    "10": "Energy possessed by a rock on the top of a hill.",
+    "11": "Energy possessed by a rolling ball.",
+    "12": "Energy possessed by charcoal.",
+    "13": "Energy possessed by water falls.",
+    "14": "Energy possessed by battery.",
+    "15": "Match the following:\nElectric Bell",
+    "16": "Match the following:\nWater in dam",
+    "17": "Match the following:\nSolar heater",
+    "18": "Match the following:\nWind mill",
+    "19": "Match the following:\nTorch light",
+    "20": "An apple falling from a tree is an example for kinetic energy.",
+    "21": "Electrical energy is used to run electric trains.",
+    "22": "Heat energy cannot be produced by friction.",
+    "23": "Potential energy and heat energy are the two forms of mechanical energy.",
+    "24": "The unit of energy is joule."
+  },
+  {
+    "0": {
+      "a": "wind energy",
+      "b": "solar energy",
+      "c": "sound energy",
+      "d": "heat energy"
+    },
+    "1": {
+      "a": "kinetic energy",
+      "b": "chemical energy",
+      "c": "potential energy",
+      "d": "sound energy"
+    },
+    "2": {
+      "a": "Kelvin",
+      "b": "Joule",
+      "c": "Kilogram",
+      "d": "Newton"
+    },
+    "3": {
+      "a": "Automobiles",
+      "b": "Parachute",
+      "c": "Photosynthesis",
+      "d": "Bicycle"
+    },
+    "4": {
+      "a": "heat energy",
+      "b": "solar energy",
+      "c": "chemical energy",
+      "d": "kinetic energy"
+    },
+    "5": {
+      "a": "Electric energy to Mechanical energy",
+      "b": "Electric energy to Heat energy",
+      "c": "Chemical energy to Heat energy",
+      "d": "Mechanical energy to Electrical energy"
+    },
+    "6": {
+      "a": "Electric energy to Mechanical energy",
+      "b": "Electric energy to Heat energy",
+      "c": "Chemical energy to Heat energy",
+      "d": "Mechanical energy to Electrical energy"
+    },
+    "7": {
+      "a": "Electric energy to Mechanical energy",
+      "b": "Electric energy to Heat energy",
+      "c": "Chemical energy to Heat energy",
+      "d": "Mechanical energy to Electrical energy"
+    },
+    "8": {
+      "a": "Electric energy to Mechanical energy",
+      "b": "Electric energy to Heat energy",
+      "c": "Chemical energy to Heat energy",
+      "d": "Electric energy to Sound energy"
+    },
+    "9": {
+      "a": "Electric energy to Mechanical energy",
+      "b": "Electric energy to Heat energy",
+      "c": "Chemical energy to Heat energy",
+      "d": "Mechanical energy to Electrical energy"
+    },
+    "10": {
+      "a": "Heat Energy",
+      "b": "Kinetic Energy",
+      "c": "Pontential Energy",
+      "d": "Chemical Energy"
+    },
+    "11": {
+      "a": "Heat Energy",
+      "b": "Kinetic Energy",
+      "c": "Pontential Energy",
+      "d": "Chemical Energy"
+    },
+    "12": {
+      "a": "Heat Energy",
+      "b": "Kinetic Energy",
+      "c": "Pontential Energy",
+      "d": "Chemical Energy"
+    },
+    "13": {
+      "a": "Heat Energy",
+      "b": "Kinetic Energy",
+      "c": "Pontential Energy",
+      "d": "Chemical Energy"
+    },
+    "14": {
+      "a": "Heat Energy",
+      "b": "Kinetic Energy",
+      "c": "Pontential Energy",
+      "d": "Chemical Energy"
+    },
+    "15": {
+      "a": "Electrical energy",
+      "b": "Potential energy",
+      "c": "Solar energy",
+      "d": "Sound energy"
+    },
+    "16": {
+      "a": "Electrical energy",
+      "b": "Potential energy",
+      "c": "Solar energy",
+      "d": "Sound energy"
+    },
+    "17": {
+      "a": "Electrical energy",
+      "b": "Potential energy",
+      "c": "Solar energy",
+      "d": "Sound energy"
+    },
+    "18": {
+      "a": "Electrical energy",
+      "b": "Potential energy",
+      "c": "Solar energy",
+      "d": "Sound energy"
+    },
+    "19": {
+      "a": "Electrical energy",
+      "b": "Potential energy",
+      "c": "Light energy",
+      "d": "Sound energy"
+    },
+    "20": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "21": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "22": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "23": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    },
+    "24": {
+      "a": "True",
+      "b": "False",
+      "c": "",
+      "d": ""
+    }
+  },
+  {
+    "0": "c",
+    "1": "b",
+    "2": "a",
+    "3": "b",
+    "4": "d",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "a",
+    "9": "d"
+  }
+]
